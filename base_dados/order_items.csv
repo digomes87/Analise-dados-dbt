@@ -1,0 +1,1631 @@
+id,order_id,order_type_id,item
+1,237,1,Ford@~|~@KA@~|~@2017@~|~@silver@~|~@used@~|~@32499.35
+2,410,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@49999
+3,652,1,Audi@~|~@Q3@~|~@2019@~|~@silver@~|~@semi-new@~|~@127500
+4,509,1,Nissan@~|~@Frontier@~|~@2017@~|~@green@~|~@used@~|~@87750
+5,730,1,Chevrolet@~|~@Onix@~|~@2018@~|~@white@~|~@semi-new@~|~@55245.75
+6,315,1,Toyota@~|~@Hilux@~|~@2019@~|~@black@~|~@semi-new@~|~@157248.3
+7,796,1,Renault@~|~@Kwid@~|~@2015@~|~@white@~|~@used@~|~@29250.65
+8,710,1,Honda@~|~@City@~|~@2020@~|~@black@~|~@new@~|~@80001
+9,459,1,Peugeot@~|~@208@~|~@2018@~|~@black@~|~@semi-new@~|~@55248.3
+10,488,1,Kia@~|~@Soul@~|~@2020@~|~@red@~|~@new@~|~@84997
+11,556,1,Ford@~|~@Edge@~|~@2018@~|~@black@~|~@semi-new@~|~@101999.15
+12,571,1,Hyundai@~|~@I30@~|~@2016@~|~@silver@~|~@used@~|~@55248.05
+13,912,1,Toyota@~|~@RAV4@~|~@2016@~|~@black@~|~@used@~|~@113750.65
+14,186,1,Kia@~|~@Ceratto@~|~@2019@~|~@silver@~|~@semi-new@~|~@80751.7
+15,652,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76501.7
+16,220,1,Volkswagen@~|~@T-Cross@~|~@2019@~|~@silver@~|~@semi-new@~|~@93499.15
+17,172,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114750.85
+18,968,1,Audi@~|~@Q3@~|~@2016@~|~@white@~|~@used@~|~@97498.05
+19,278,1,Ford@~|~@Ranger@~|~@2019@~|~@white@~|~@semi-new@~|~@114750
+20,555,1,Chevrolet@~|~@Onix@~|~@2019@~|~@black@~|~@semi-new@~|~@55250
+21,400,1,Toyota@~|~@Yaris@~|~@2019@~|~@green@~|~@semi-new@~|~@63753.4
+22,284,1,Volkswagen@~|~@Jetta@~|~@2018@~|~@black@~|~@semi-new@~|~@93499.15
+23,979,1,Kia@~|~@Ceratto@~|~@2016@~|~@blue@~|~@used@~|~@61749.35
+24,782,1,Hyundai@~|~@I30@~|~@2017@~|~@green@~|~@used@~|~@55250.65
+25,515,1,Peugeot@~|~@3008@~|~@2016@~|~@green@~|~@used@~|~@61749.35
+26,309,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@50002
+27,968,1,Hyundai@~|~@Creta@~|~@2018@~|~@silver@~|~@semi-new@~|~@89249.15
+28,909,1,Hyundai@~|~@Sonata@~|~@2018@~|~@white@~|~@semi-new@~|~@110497.45
+29,579,1,Audi@~|~@Q3@~|~@2018@~|~@silver@~|~@semi-new@~|~@127500
+30,591,1,Peugeot@~|~@308@~|~@2018@~|~@green@~|~@semi-new@~|~@63750.85
+31,488,1,Volkswagen@~|~@Polo@~|~@2017@~|~@silver@~|~@used@~|~@45501.3
+32,954,1,Kia@~|~@Rio@~|~@2019@~|~@silver@~|~@semi-new@~|~@67999.15
+33,94,1,Volkswagen@~|~@T-Cross@~|~@2020@~|~@black@~|~@new@~|~@109999
+34,710,1,Toyota@~|~@Corolla@~|~@2015@~|~@red@~|~@used@~|~@81251.3
+35,4,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+36,721,1,Kia@~|~@Ceratto@~|~@2019@~|~@black@~|~@semi-new@~|~@80752.55
+37,736,1,Audi@~|~@A1@~|~@2020@~|~@blue@~|~@new@~|~@90003
+38,709,1,Honda@~|~@Fit@~|~@2016@~|~@silver@~|~@used@~|~@39000.65
+39,503,1,Ford@~|~@Fiesta@~|~@2020@~|~@green@~|~@new@~|~@60004
+40,320,1,Volkswagen@~|~@Polo@~|~@2015@~|~@red@~|~@used@~|~@45498.7
+41,353,1,Renault@~|~@Duster@~|~@2015@~|~@blue@~|~@used@~|~@55250.65
+42,782,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+43,104,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38247.45
+44,964,1,Hyundai@~|~@Creta@~|~@2016@~|~@green@~|~@used@~|~@68251.95
+45,341,1,Ford@~|~@Fiesta@~|~@2019@~|~@silver@~|~@semi-new@~|~@50998.3
+46,292,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45498.05
+47,866,1,Renault@~|~@Logan@~|~@2020@~|~@black@~|~@new@~|~@70000
+48,20,1,Peugeot@~|~@3008@~|~@2016@~|~@white@~|~@used@~|~@61750.65
+49,782,1,Nissan@~|~@Versa@~|~@2018@~|~@black@~|~@semi-new@~|~@51002.55
+50,771,1,Audi@~|~@A3@~|~@2017@~|~@white@~|~@used@~|~@81248.05
+51,810,1,Peugeot@~|~@2008@~|~@2018@~|~@blue@~|~@semi-new@~|~@63750
+52,200,1,Chevrolet@~|~@Onix@~|~@2017@~|~@red@~|~@used@~|~@42249.35
+53,964,1,Honda@~|~@H-RV@~|~@2017@~|~@silver@~|~@used@~|~@68248.7
+54,335,1,Audi@~|~@A3@~|~@2017@~|~@black@~|~@used@~|~@81247.4
+55,468,1,Renault@~|~@Sandero@~|~@2018@~|~@green@~|~@semi-new@~|~@55249.15
+56,727,1,Volkswagen@~|~@Polo@~|~@2019@~|~@blue@~|~@semi-new@~|~@59502.55
+57,305,1,Audi@~|~@A3@~|~@2016@~|~@black@~|~@used@~|~@81250.65
+58,282,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35748.7
+59,441,1,Honda@~|~@City@~|~@2015@~|~@silver@~|~@used@~|~@51999.35
+60,748,1,Volkswagen@~|~@Virtus@~|~@2019@~|~@blue@~|~@semi-new@~|~@68001.7
+61,566,1,Toyota@~|~@Yaris@~|~@2015@~|~@white@~|~@used@~|~@48748.05
+62,863,1,Honda@~|~@CR-V@~|~@2020@~|~@blue@~|~@new@~|~@135000
+63,365,1,Audi@~|~@A1@~|~@2019@~|~@white@~|~@semi-new@~|~@76500
+64,428,1,Kia@~|~@Ceratto@~|~@2020@~|~@silver@~|~@new@~|~@95000
+65,949,1,Peugeot@~|~@5008@~|~@2018@~|~@red@~|~@semi-new@~|~@106249.15
+66,646,1,Honda@~|~@H-RV@~|~@2019@~|~@red@~|~@semi-new@~|~@89249.15
+67,964,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29249.35
+68,468,1,Honda@~|~@CR-V@~|~@2019@~|~@white@~|~@semi-new@~|~@114748.3
+69,887,1,Audi@~|~@A1@~|~@2018@~|~@black@~|~@semi-new@~|~@76502.55
+70,887,1,Nissan@~|~@Versa@~|~@2020@~|~@silver@~|~@new@~|~@60003
+71,246,1,Nissan@~|~@March@~|~@2018@~|~@white@~|~@semi-new@~|~@38250.85
+72,557,1,Honda@~|~@New Civic@~|~@2016@~|~@green@~|~@used@~|~@78000.65
+73,909,1,Honda@~|~@City@~|~@2019@~|~@red@~|~@semi-new@~|~@68001.7
+74,591,1,Peugeot@~|~@2008@~|~@2019@~|~@silver@~|~@semi-new@~|~@63750
+75,887,1,Hyundai@~|~@HB20@~|~@2015@~|~@red@~|~@used@~|~@39000
+76,393,1,Renault@~|~@Fluence@~|~@2016@~|~@red@~|~@used@~|~@58499.35
+77,997,1,Renault@~|~@Sandero@~|~@2016@~|~@blue@~|~@used@~|~@42250.65
+78,820,1,Chevrolet@~|~@Cobalt@~|~@2016@~|~@blue@~|~@used@~|~@45497.4
+79,582,1,Audi@~|~@A1@~|~@2018@~|~@red@~|~@semi-new@~|~@76500.85
+80,887,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76500
+81,755,1,Hyundai@~|~@Sonata@~|~@2020@~|~@blue@~|~@new@~|~@129999
+82,500,1,Honda@~|~@H-RV@~|~@2016@~|~@black@~|~@used@~|~@68250.65
+83,350,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@green@~|~@used@~|~@71498.05
+84,810,1,Toyota@~|~@Hilux@~|~@2017@~|~@blue@~|~@used@~|~@120249.35
+85,201,1,Peugeot@~|~@2008@~|~@2016@~|~@green@~|~@used@~|~@48750
+86,973,1,Peugeot@~|~@3008@~|~@2015@~|~@white@~|~@used@~|~@61749.35
+87,697,1,Renault@~|~@Sandero@~|~@2019@~|~@silver@~|~@semi-new@~|~@55250.85
+88,555,1,Hyundai@~|~@IX35@~|~@2017@~|~@blue@~|~@used@~|~@61748.7
+89,172,1,Chevrolet@~|~@TrailBlazer@~|~@2015@~|~@green@~|~@used@~|~@110498.7
+90,582,1,Volkswagen@~|~@Gol@~|~@2017@~|~@red@~|~@used@~|~@29249.35
+91,582,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@blue@~|~@used@~|~@87750
+92,220,1,Honda@~|~@New Civic@~|~@2015@~|~@silver@~|~@used@~|~@78001.3
+93,526,1,Renault@~|~@Duster@~|~@2015@~|~@red@~|~@used@~|~@55249.35
+94,724,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@red@~|~@used@~|~@71500.65
+95,10,1,Jeep@~|~@Renegade@~|~@2016@~|~@white@~|~@used@~|~@55251.3
+96,971,1,Toyota@~|~@Hilux@~|~@2018@~|~@red@~|~@semi-new@~|~@157252.55
+97,706,1,Honda@~|~@New Civic@~|~@2016@~|~@white@~|~@used@~|~@77999.35
+98,172,1,Ford@~|~@KA@~|~@2018@~|~@red@~|~@semi-new@~|~@42502.55
+99,318,1,Renault@~|~@Logan@~|~@2019@~|~@blue@~|~@semi-new@~|~@59498.3
+100,603,1,Peugeot@~|~@3008@~|~@2015@~|~@blue@~|~@used@~|~@61751.95
+101,721,1,Nissan@~|~@Kicks@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+102,815,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+103,628,1,Peugeot@~|~@308@~|~@2017@~|~@red@~|~@used@~|~@48749.35
+104,88,1,Nissan@~|~@Sentra@~|~@2017@~|~@black@~|~@used@~|~@61747.4
+105,664,1,Volkswagen@~|~@Fox@~|~@2015@~|~@white@~|~@used@~|~@35750.65
+106,429,1,Nissan@~|~@Sentra@~|~@2020@~|~@green@~|~@new@~|~@94996
+107,446,1,Chevrolet@~|~@Tracker@~|~@2020@~|~@black@~|~@new@~|~@109996
+108,59,1,Peugeot@~|~@2008@~|~@2017@~|~@red@~|~@used@~|~@48748.05
+109,419,1,Audi@~|~@A4@~|~@2020@~|~@green@~|~@new@~|~@159996
+110,747,1,Volkswagen@~|~@Golf@~|~@2018@~|~@white@~|~@semi-new@~|~@97749.15
+111,441,1,Volkswagen@~|~@Polo@~|~@2017@~|~@red@~|~@used@~|~@45499.35
+112,704,1,Ford@~|~@KA@~|~@2016@~|~@black@~|~@used@~|~@32501.95
+113,922,1,Chevrolet@~|~@S-10@~|~@2015@~|~@white@~|~@used@~|~@97499.35
+114,429,1,Volkswagen@~|~@Passat@~|~@2020@~|~@silver@~|~@new@~|~@135002
+115,932,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+116,371,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114752.55
+117,315,1,Renault@~|~@Duster@~|~@2019@~|~@white@~|~@semi-new@~|~@72252.55
+118,556,1,Chevrolet@~|~@Spin@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+119,784,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29251.3
+120,104,1,Chevrolet@~|~@Onix@~|~@2015@~|~@white@~|~@used@~|~@42248.7
+121,641,1,Ford@~|~@Ranger@~|~@2017@~|~@black@~|~@used@~|~@87749.35
+122,664,1,Kia@~|~@Ceratto@~|~@2019@~|~@green@~|~@semi-new@~|~@80747.45
+123,641,1,Hyundai@~|~@Creta@~|~@2018@~|~@green@~|~@semi-new@~|~@89251.7
+124,35,1,Toyota@~|~@Corolla@~|~@2020@~|~@silver@~|~@new@~|~@124996
+125,557,1,Kia@~|~@Rio@~|~@2018@~|~@green@~|~@semi-new@~|~@68003.4
+126,971,1,Chevrolet@~|~@Tracker@~|~@2016@~|~@green@~|~@used@~|~@71500
+127,850,1,Kia@~|~@Sportage@~|~@2018@~|~@white@~|~@semi-new@~|~@102003.4
+128,202,1,Toyota@~|~@Etios@~|~@2015@~|~@white@~|~@used@~|~@35750
+129,722,1,Nissan@~|~@March@~|~@2017@~|~@green@~|~@used@~|~@29248.7
+130,425,1,Kia@~|~@Ceratto@~|~@2016@~|~@white@~|~@used@~|~@61749.35
+131,175,1,Chevrolet@~|~@Onix@~|~@2019@~|~@white@~|~@semi-new@~|~@55250.85
+132,234,1,Peugeot@~|~@308@~|~@2017@~|~@green@~|~@used@~|~@48748.7
+133,832,1,Nissan@~|~@March@~|~@2016@~|~@green@~|~@used@~|~@29250.65
+134,246,1,Renault@~|~@Logan@~|~@2020@~|~@blue@~|~@new@~|~@70000
+135,186,1,Ford@~|~@KA@~|~@2019@~|~@blue@~|~@semi-new@~|~@42502.55
+136,180,1,Toyota@~|~@Etios@~|~@2020@~|~@silver@~|~@new@~|~@54998
+137,820,1,Audi@~|~@A1@~|~@2018@~|~@silver@~|~@semi-new@~|~@76498.3
+138,144,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+139,59,1,Peugeot@~|~@3008@~|~@2017@~|~@white@~|~@used@~|~@61747.4
+140,186,1,Chevrolet@~|~@Onix@~|~@2017@~|~@silver@~|~@used@~|~@42249.35
+141,144,1,Toyota@~|~@Corolla@~|~@2016@~|~@blue@~|~@used@~|~@81250.65
+142,520,1,Ford@~|~@Edge@~|~@2016@~|~@white@~|~@used@~|~@78001.3
+143,309,1,Nissan@~|~@Versa@~|~@2018@~|~@white@~|~@semi-new@~|~@51002.55
+144,212,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@black@~|~@used@~|~@71498.05
+145,443,1,Nissan@~|~@Frontier@~|~@2017@~|~@red@~|~@used@~|~@87750.65
+146,784,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@white@~|~@used@~|~@87749.35
+147,651,1,Volkswagen@~|~@Polo@~|~@2016@~|~@white@~|~@used@~|~@45501.3
+148,324,1,Ford@~|~@Ranger@~|~@2020@~|~@black@~|~@new@~|~@134999
+149,832,1,Hyundai@~|~@HB20@~|~@2020@~|~@blue@~|~@new@~|~@59999
+150,396,1,Nissan@~|~@Kicks@~|~@2020@~|~@white@~|~@new@~|~@89998
+151,859,1,Honda@~|~@New Civic@~|~@2015@~|~@black@~|~@used@~|~@78003.25
+152,81,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@white@~|~@used@~|~@71500
+153,278,1,Ford@~|~@Ranger@~|~@2016@~|~@blue@~|~@used@~|~@87750
+154,796,1,Chevrolet@~|~@Onix@~|~@2017@~|~@black@~|~@used@~|~@42249.35
+155,932,1,Honda@~|~@Fit@~|~@2016@~|~@black@~|~@used@~|~@39000.65
+156,594,1,Renault@~|~@Fluence@~|~@2018@~|~@white@~|~@semi-new@~|~@76499.15
+157,220,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35749.35
+158,425,1,Renault@~|~@Sandero@~|~@2017@~|~@red@~|~@used@~|~@42250
+159,987,1,Volkswagen@~|~@Jetta@~|~@2015@~|~@white@~|~@used@~|~@71501.95
+160,979,1,Hyundai@~|~@IX35@~|~@2017@~|~@red@~|~@used@~|~@61751.95
+161,396,1,Jeep@~|~@Renegade@~|~@2018@~|~@blue@~|~@semi-new@~|~@72250.85
+162,535,1,Nissan@~|~@March@~|~@2018@~|~@silver@~|~@semi-new@~|~@38253.4
+163,555,1,Hyundai@~|~@HB20@~|~@2020@~|~@black@~|~@new@~|~@59996
+164,532,1,Hyundai@~|~@I30@~|~@2016@~|~@black@~|~@used@~|~@55250.65
+165,400,1,Ford@~|~@KA@~|~@2015@~|~@black@~|~@used@~|~@32500
+166,520,1,Volkswagen@~|~@Golf@~|~@2019@~|~@silver@~|~@semi-new@~|~@97748.3
+167,278,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45501.3
+168,587,1,Hyundai@~|~@Elantra@~|~@2019@~|~@red@~|~@semi-new@~|~@76499.15
+169,639,1,Volkswagen@~|~@Fox@~|~@2020@~|~@silver@~|~@new@~|~@55002
+170,137,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@blue@~|~@used@~|~@87748.05
+171,217,1,Renault@~|~@Duster@~|~@2020@~|~@blue@~|~@new@~|~@84997
+172,223,1,Honda@~|~@Fit@~|~@2018@~|~@white@~|~@semi-new@~|~@51001.7
+173,782,1,Kia@~|~@Rio@~|~@2017@~|~@blue@~|~@used@~|~@52001.3
+174,366,1,Honda@~|~@Fit@~|~@2016@~|~@white@~|~@used@~|~@39001.3
+175,546,1,Volkswagen@~|~@Virtus@~|~@2017@~|~@black@~|~@used@~|~@52000
+176,966,1,Audi@~|~@A1@~|~@2015@~|~@green@~|~@used@~|~@58499.35
+177,320,1,Toyota@~|~@Etios@~|~@2018@~|~@black@~|~@semi-new@~|~@46752.55
+178,903,1,Volkswagen@~|~@Gol@~|~@2019@~|~@green@~|~@semi-new@~|~@38250.85
+179,160,1,Jeep@~|~@Compass@~|~@2015@~|~@green@~|~@used@~|~@78001.3
+180,850,1,Peugeot@~|~@308@~|~@2015@~|~@blue@~|~@used@~|~@48748.7
+181,90,1,Renault@~|~@Kwid@~|~@2015@~|~@black@~|~@used@~|~@29249.35
+182,721,1,Toyota@~|~@Etios@~|~@2019@~|~@white@~|~@semi-new@~|~@46749.15
+183,718,1,Hyundai@~|~@HB20@~|~@2016@~|~@green@~|~@used@~|~@39000
+184,293,1,Nissan@~|~@Sentra@~|~@2018@~|~@green@~|~@semi-new@~|~@80750
+185,633,1,Renault@~|~@Sandero@~|~@2020@~|~@blue@~|~@new@~|~@64997
+186,951,1,Honda@~|~@Fit@~|~@2019@~|~@green@~|~@semi-new@~|~@50998.3
+187,458,1,Nissan@~|~@Versa@~|~@2017@~|~@black@~|~@used@~|~@38998.05
+188,900,1,Volkswagen@~|~@T-Cross@~|~@2015@~|~@red@~|~@used@~|~@71499.35
+189,591,1,Peugeot@~|~@308@~|~@2017@~|~@black@~|~@used@~|~@48751.3
+190,517,1,Hyundai@~|~@HB20@~|~@2018@~|~@green@~|~@semi-new@~|~@51001.7
+191,179,1,Volkswagen@~|~@Polo@~|~@2020@~|~@black@~|~@new@~|~@70001
+192,63,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@red@~|~@used@~|~@87748.05
+193,608,1,Volkswagen@~|~@Gol@~|~@2019@~|~@red@~|~@semi-new@~|~@38247.45
+194,110,1,Hyundai@~|~@I30@~|~@2017@~|~@black@~|~@used@~|~@55250.65
+195,459,1,Jeep@~|~@Renegade@~|~@2018@~|~@blue@~|~@semi-new@~|~@72250.85
+196,458,1,Hyundai@~|~@Sonata@~|~@2020@~|~@green@~|~@new@~|~@129998
+197,212,1,Chevrolet@~|~@S-10@~|~@2019@~|~@blue@~|~@semi-new@~|~@127499.15
+198,829,1,Renault@~|~@Kwid@~|~@2020@~|~@silver@~|~@new@~|~@44999
+199,335,1,Toyota@~|~@Yaris@~|~@2017@~|~@white@~|~@used@~|~@48748.05
+200,832,1,Nissan@~|~@Versa@~|~@2020@~|~@white@~|~@new@~|~@59999
+201,954,1,Volkswagen@~|~@Golf@~|~@2016@~|~@black@~|~@used@~|~@74749.35
+202,294,1,Honda@~|~@New Civic@~|~@2017@~|~@white@~|~@used@~|~@78000
+203,458,1,Jeep@~|~@Renegade@~|~@2016@~|~@blue@~|~@used@~|~@55251.95
+204,737,1,Peugeot@~|~@2008@~|~@2020@~|~@green@~|~@new@~|~@75000
+205,927,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38249.15
+206,967,1,Volkswagen@~|~@Virtus@~|~@2017@~|~@white@~|~@used@~|~@51999.35
+207,443,1,Hyundai@~|~@Tucson@~|~@2019@~|~@red@~|~@semi-new@~|~@136001.7
+208,401,1,Peugeot@~|~@308@~|~@2015@~|~@black@~|~@used@~|~@48750.65
+209,466,1,Volkswagen@~|~@T-Cross@~|~@2018@~|~@green@~|~@semi-new@~|~@93500
+210,81,1,Volkswagen@~|~@Fox@~|~@2018@~|~@green@~|~@semi-new@~|~@46750
+211,137,1,Volkswagen@~|~@Passat@~|~@2016@~|~@blue@~|~@used@~|~@87750.65
+212,727,1,Renault@~|~@Logan@~|~@2017@~|~@white@~|~@used@~|~@45500
+213,458,1,Volkswagen@~|~@Polo@~|~@2015@~|~@blue@~|~@used@~|~@45498.7
+214,755,1,Volkswagen@~|~@Virtus@~|~@2020@~|~@silver@~|~@new@~|~@80002
+215,429,1,Chevrolet@~|~@Equinox@~|~@2015@~|~@red@~|~@used@~|~@87751.3
+216,983,1,Nissan@~|~@Versa@~|~@2015@~|~@white@~|~@used@~|~@39000.65
+217,500,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+218,613,1,Nissan@~|~@Sentra@~|~@2019@~|~@white@~|~@semi-new@~|~@80750
+219,722,1,Volkswagen@~|~@Jetta@~|~@2019@~|~@white@~|~@semi-new@~|~@93498.3
+220,433,1,Hyundai@~|~@Tucson@~|~@2016@~|~@red@~|~@used@~|~@104000
+1,237,1,Ford@~|~@KA@~|~@2017@~|~@silver@~|~@used@~|~@32499.35
+2,410,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@49999
+3,652,1,Audi@~|~@Q3@~|~@2019@~|~@silver@~|~@semi-new@~|~@127500
+4,509,1,Nissan@~|~@Frontier@~|~@2017@~|~@green@~|~@used@~|~@87750
+5,730,1,Chevrolet@~|~@Onix@~|~@2018@~|~@white@~|~@semi-new@~|~@55245.75
+6,315,1,Toyota@~|~@Hilux@~|~@2019@~|~@black@~|~@semi-new@~|~@157248.3
+7,796,1,Renault@~|~@Kwid@~|~@2015@~|~@white@~|~@used@~|~@29250.65
+8,710,1,Honda@~|~@City@~|~@2020@~|~@black@~|~@new@~|~@80001
+9,459,1,Peugeot@~|~@208@~|~@2018@~|~@black@~|~@semi-new@~|~@55248.3
+10,488,1,Kia@~|~@Soul@~|~@2020@~|~@red@~|~@new@~|~@84997
+11,556,1,Ford@~|~@Edge@~|~@2018@~|~@black@~|~@semi-new@~|~@101999.15
+12,571,1,Hyundai@~|~@I30@~|~@2016@~|~@silver@~|~@used@~|~@55248.05
+13,912,1,Toyota@~|~@RAV4@~|~@2016@~|~@black@~|~@used@~|~@113750.65
+14,186,1,Kia@~|~@Ceratto@~|~@2019@~|~@silver@~|~@semi-new@~|~@80751.7
+15,652,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76501.7
+16,220,1,Volkswagen@~|~@T-Cross@~|~@2019@~|~@silver@~|~@semi-new@~|~@93499.15
+17,172,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114750.85
+18,968,1,Audi@~|~@Q3@~|~@2016@~|~@white@~|~@used@~|~@97498.05
+19,278,1,Ford@~|~@Ranger@~|~@2019@~|~@white@~|~@semi-new@~|~@114750
+20,555,1,Chevrolet@~|~@Onix@~|~@2019@~|~@black@~|~@semi-new@~|~@55250
+21,400,1,Toyota@~|~@Yaris@~|~@2019@~|~@green@~|~@semi-new@~|~@63753.4
+22,284,1,Volkswagen@~|~@Jetta@~|~@2018@~|~@black@~|~@semi-new@~|~@93499.15
+23,979,1,Kia@~|~@Ceratto@~|~@2016@~|~@blue@~|~@used@~|~@61749.35
+24,782,1,Hyundai@~|~@I30@~|~@2017@~|~@green@~|~@used@~|~@55250.65
+25,515,1,Peugeot@~|~@3008@~|~@2016@~|~@green@~|~@used@~|~@61749.35
+26,309,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@50002
+27,968,1,Hyundai@~|~@Creta@~|~@2018@~|~@silver@~|~@semi-new@~|~@89249.15
+28,909,1,Hyundai@~|~@Sonata@~|~@2018@~|~@white@~|~@semi-new@~|~@110497.45
+29,579,1,Audi@~|~@Q3@~|~@2018@~|~@silver@~|~@semi-new@~|~@127500
+30,591,1,Peugeot@~|~@308@~|~@2018@~|~@green@~|~@semi-new@~|~@63750.85
+31,488,1,Volkswagen@~|~@Polo@~|~@2017@~|~@silver@~|~@used@~|~@45501.3
+32,954,1,Kia@~|~@Rio@~|~@2019@~|~@silver@~|~@semi-new@~|~@67999.15
+33,94,1,Volkswagen@~|~@T-Cross@~|~@2020@~|~@black@~|~@new@~|~@109999
+34,710,1,Toyota@~|~@Corolla@~|~@2015@~|~@red@~|~@used@~|~@81251.3
+35,4,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+36,721,1,Kia@~|~@Ceratto@~|~@2019@~|~@black@~|~@semi-new@~|~@80752.55
+37,736,1,Audi@~|~@A1@~|~@2020@~|~@blue@~|~@new@~|~@90003
+38,709,1,Honda@~|~@Fit@~|~@2016@~|~@silver@~|~@used@~|~@39000.65
+39,503,1,Ford@~|~@Fiesta@~|~@2020@~|~@green@~|~@new@~|~@60004
+40,320,1,Volkswagen@~|~@Polo@~|~@2015@~|~@red@~|~@used@~|~@45498.7
+41,353,1,Renault@~|~@Duster@~|~@2015@~|~@blue@~|~@used@~|~@55250.65
+42,782,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+43,104,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38247.45
+44,964,1,Hyundai@~|~@Creta@~|~@2016@~|~@green@~|~@used@~|~@68251.95
+45,341,1,Ford@~|~@Fiesta@~|~@2019@~|~@silver@~|~@semi-new@~|~@50998.3
+46,292,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45498.05
+47,866,1,Renault@~|~@Logan@~|~@2020@~|~@black@~|~@new@~|~@70000
+48,20,1,Peugeot@~|~@3008@~|~@2016@~|~@white@~|~@used@~|~@61750.65
+49,782,1,Nissan@~|~@Versa@~|~@2018@~|~@black@~|~@semi-new@~|~@51002.55
+50,771,1,Audi@~|~@A3@~|~@2017@~|~@white@~|~@used@~|~@81248.05
+51,810,1,Peugeot@~|~@2008@~|~@2018@~|~@blue@~|~@semi-new@~|~@63750
+52,200,1,Chevrolet@~|~@Onix@~|~@2017@~|~@red@~|~@used@~|~@42249.35
+53,964,1,Honda@~|~@H-RV@~|~@2017@~|~@silver@~|~@used@~|~@68248.7
+54,335,1,Audi@~|~@A3@~|~@2017@~|~@black@~|~@used@~|~@81247.4
+55,468,1,Renault@~|~@Sandero@~|~@2018@~|~@green@~|~@semi-new@~|~@55249.15
+56,727,1,Volkswagen@~|~@Polo@~|~@2019@~|~@blue@~|~@semi-new@~|~@59502.55
+57,305,1,Audi@~|~@A3@~|~@2016@~|~@black@~|~@used@~|~@81250.65
+58,282,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35748.7
+59,441,1,Honda@~|~@City@~|~@2015@~|~@silver@~|~@used@~|~@51999.35
+60,748,1,Volkswagen@~|~@Virtus@~|~@2019@~|~@blue@~|~@semi-new@~|~@68001.7
+61,566,1,Toyota@~|~@Yaris@~|~@2015@~|~@white@~|~@used@~|~@48748.05
+62,863,1,Honda@~|~@CR-V@~|~@2020@~|~@blue@~|~@new@~|~@135000
+63,365,1,Audi@~|~@A1@~|~@2019@~|~@white@~|~@semi-new@~|~@76500
+64,428,1,Kia@~|~@Ceratto@~|~@2020@~|~@silver@~|~@new@~|~@95000
+65,949,1,Peugeot@~|~@5008@~|~@2018@~|~@red@~|~@semi-new@~|~@106249.15
+66,646,1,Honda@~|~@H-RV@~|~@2019@~|~@red@~|~@semi-new@~|~@89249.15
+67,964,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29249.35
+68,468,1,Honda@~|~@CR-V@~|~@2019@~|~@white@~|~@semi-new@~|~@114748.3
+69,887,1,Audi@~|~@A1@~|~@2018@~|~@black@~|~@semi-new@~|~@76502.55
+70,887,1,Nissan@~|~@Versa@~|~@2020@~|~@silver@~|~@new@~|~@60003
+71,246,1,Nissan@~|~@March@~|~@2018@~|~@white@~|~@semi-new@~|~@38250.85
+72,557,1,Honda@~|~@New Civic@~|~@2016@~|~@green@~|~@used@~|~@78000.65
+73,909,1,Honda@~|~@City@~|~@2019@~|~@red@~|~@semi-new@~|~@68001.7
+74,591,1,Peugeot@~|~@2008@~|~@2019@~|~@silver@~|~@semi-new@~|~@63750
+75,887,1,Hyundai@~|~@HB20@~|~@2015@~|~@red@~|~@used@~|~@39000
+76,393,1,Renault@~|~@Fluence@~|~@2016@~|~@red@~|~@used@~|~@58499.35
+77,997,1,Renault@~|~@Sandero@~|~@2016@~|~@blue@~|~@used@~|~@42250.65
+78,820,1,Chevrolet@~|~@Cobalt@~|~@2016@~|~@blue@~|~@used@~|~@45497.4
+79,582,1,Audi@~|~@A1@~|~@2018@~|~@red@~|~@semi-new@~|~@76500.85
+80,887,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76500
+221,781,2,Ranger@~|~@1@~|~@review 10km@~|~@471.13
+222,368,2,Onix@~|~@4@~|~@review 50km@~|~@920.12
+223,346,2,Ceratto@~|~@2@~|~@review 20km@~|~@473.32
+224,805,2,T-Cross@~|~@2@~|~@review 20km@~|~@485.44
+225,789,2,KA@~|~@2@~|~@review 20km@~|~@469.26
+226,374,2,3008@~|~@4@~|~@review 50km@~|~@1422.74
+227,207,2,RAV4@~|~@2@~|~@review 20km@~|~@400.66
+228,354,2,Versa@~|~@3@~|~@review 30km@~|~@616.06
+229,801,2,Renegade@~|~@1@~|~@review 10km@~|~@492.63
+230,801,2,Corolla@~|~@2@~|~@review 20km@~|~@572.07
+231,122,2,Cobalt@~|~@4@~|~@review 50km@~|~@1071.56
+232,450,2,Onix@~|~@4@~|~@review 50km@~|~@1373.14
+233,673,2,308@~|~@2@~|~@review 20km@~|~@555.36
+234,734,2,2008@~|~@2@~|~@review 20km@~|~@497.63
+235,260,2,City@~|~@4@~|~@review 50km@~|~@1364.48
+236,255,2,Fiesta@~|~@4@~|~@review 50km@~|~@1197.44
+237,660,2,Virtus@~|~@1@~|~@review 10km@~|~@428.77
+238,142,2,Sportage@~|~@2@~|~@review 20km@~|~@555.14
+239,673,2,Gol@~|~@1@~|~@review 10km@~|~@401.59
+240,407,2,Duster@~|~@2@~|~@review 20km@~|~@545.12
+241,751,2,RAV4@~|~@2@~|~@review 20km@~|~@525.77
+242,169,2,Renegade@~|~@4@~|~@review 50km@~|~@1255.92
+243,860,2,Polo@~|~@2@~|~@review 20km@~|~@429.29
+244,346,2,Fiesta@~|~@2@~|~@review 20km@~|~@467.34
+245,450,2,Cobalt@~|~@1@~|~@review 10km@~|~@438.63
+246,75,2,HB20@~|~@1@~|~@review 10km@~|~@369.97
+247,751,2,Cobalt@~|~@2@~|~@review 20km@~|~@590.57
+248,919,2,T-Cross@~|~@4@~|~@review 50km@~|~@1202.59
+249,306,2,Kicks@~|~@1@~|~@review 10km@~|~@362.80
+250,714,2,March@~|~@4@~|~@review 50km@~|~@1063.26
+251,122,2,Q3@~|~@3@~|~@review 30km@~|~@720.87
+252,609,2,Gol@~|~@3@~|~@review 30km@~|~@702.08
+253,45,2,Ceratto@~|~@1@~|~@review 10km@~|~@479.08
+254,159,2,Golf@~|~@4@~|~@review 50km@~|~@1328.68
+255,191,2,New Civic@~|~@2@~|~@review 20km@~|~@437.66
+256,923,2,TrailBlazer@~|~@3@~|~@review 30km@~|~@693.77
+257,789,2,Logan@~|~@2@~|~@review 20km@~|~@463.06
+258,405,2,Yaris@~|~@1@~|~@review 10km@~|~@407.80
+259,919,2,3008@~|~@2@~|~@review 20km@~|~@450.85
+260,354,2,Passat@~|~@1@~|~@review 10km@~|~@467.43
+261,103,2,Gol@~|~@2@~|~@review 20km@~|~@535.91
+262,729,2,KA@~|~@1@~|~@review 10km@~|~@455.71
+263,368,2,Logan@~|~@4@~|~@review 50km@~|~@951.59
+264,287,2,Corolla@~|~@3@~|~@review 30km@~|~@748.21
+265,734,2,T-Cross@~|~@2@~|~@review 20km@~|~@431.71
+266,352,2,A4@~|~@3@~|~@review 30km@~|~@698.88
+267,855,2,Polo@~|~@4@~|~@review 50km@~|~@1322.68
+268,412,2,Soul@~|~@3@~|~@review 30km@~|~@640.87
+269,405,2,Frontier@~|~@4@~|~@review 50km@~|~@1065.79
+270,228,2,I30@~|~@2@~|~@review 20km@~|~@437.56
+271,923,2,Renegade@~|~@3@~|~@review 30km@~|~@604.69
+272,14,2,Sentra@~|~@3@~|~@review 30km@~|~@564.60
+273,452,2,Sandero@~|~@4@~|~@review 50km@~|~@1326.30
+274,197,2,Rio@~|~@2@~|~@review 20km@~|~@524.33
+275,368,2,IX35@~|~@1@~|~@review 10km@~|~@423.62
+276,214,2,Corolla@~|~@2@~|~@review 20km@~|~@476.38
+277,169,2,Tucson@~|~@2@~|~@review 20km@~|~@489.13
+278,751,2,Gol@~|~@3@~|~@review 30km@~|~@578.33
+279,346,2,Q3@~|~@2@~|~@review 20km@~|~@598.76
+280,214,2,A1@~|~@4@~|~@review 50km@~|~@1091.55
+281,122,2,Kicks@~|~@1@~|~@review 10km@~|~@437.99
+282,228,2,Onix@~|~@4@~|~@review 50km@~|~@936.79
+283,368,2,Fit@~|~@1@~|~@review 10km@~|~@396.87
+284,734,2,5008@~|~@4@~|~@review 50km@~|~@1431.00
+285,374,2,Spin@~|~@4@~|~@review 50km@~|~@975.62
+286,354,2,Polo@~|~@2@~|~@review 20km@~|~@571.57
+287,159,2,Kicks@~|~@4@~|~@review 50km@~|~@1282.60
+288,177,2,Renegade@~|~@2@~|~@review 20km@~|~@485.40
+289,942,2,Sportage@~|~@3@~|~@review 30km@~|~@573.76
+290,159,2,Corolla@~|~@2@~|~@review 20km@~|~@505.91
+301,460,3,Virtus@~|~@2@~|~@maintenance of 100.000km@~|~@3324.94
+302,414,3,Kicks@~|~@2@~|~@maintenance of 100.000km@~|~@2740.27
+303,213,3,Versa@~|~@1@~|~@maintenance of 50.000km@~|~@2079.16
+304,528,3,T-Cross@~|~@2@~|~@maintenance of 100.000km@~|~@2657.44
+305,510,3,Kwid@~|~@1@~|~@maintenance of 50.000km@~|~@1564.69
+306,312,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@4907.06
+307,518,3,Yaris@~|~@1@~|~@maintenance of 50.000km@~|~@1847.50
+308,52,3,Sentra@~|~@2@~|~@maintenance of 100.000km@~|~@2841.18
+309,604,3,Compass@~|~@2@~|~@maintenance of 100.000km@~|~@2889.64
+310,543,3,Tracker@~|~@1@~|~@maintenance of 50.000km@~|~@1553.76
+311,134,3,Sandero@~|~@1@~|~@maintenance of 50.000km@~|~@2126.32
+312,564,3,Renegade@~|~@1@~|~@maintenance of 50.000km@~|~@1924.94
+313,344,3,Gol@~|~@2@~|~@maintenance of 100.000km@~|~@3343.21
+314,190,3,TrailBlazer@~|~@3@~|~@maintenance of 150.000km@~|~@4458.08
+315,107,3,Renegade@~|~@1@~|~@maintenance of 50.000km@~|~@2167.62
+316,688,3,Virtus@~|~@2@~|~@maintenance of 100.000km@~|~@3073.96
+317,513,3,Jetta@~|~@3@~|~@maintenance of 150.000km@~|~@4779.86
+318,377,3,HB20@~|~@3@~|~@maintenance of 150.000km@~|~@4867.22
+319,146,3,Ceratto@~|~@2@~|~@maintenance of 100.000km@~|~@2594.86
+320,564,3,Yaris@~|~@1@~|~@maintenance of 50.000km@~|~@2441.19
+321,513,3,Kwid@~|~@3@~|~@maintenance of 150.000km@~|~@4856.93
+322,631,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4173.63
+323,518,3,Golf@~|~@2@~|~@maintenance of 100.000km@~|~@3490.75
+324,52,3,Sentra@~|~@1@~|~@maintenance of 50.000km@~|~@2289.07
+325,574,3,Fox@~|~@1@~|~@maintenance of 50.000km@~|~@2028.02
+326,342,3,Fiesta@~|~@3@~|~@maintenance of 150.000km@~|~@4311.33
+327,686,3,5008@~|~@2@~|~@maintenance of 100.000km@~|~@3424.40
+328,686,3,Onix@~|~@2@~|~@maintenance of 100.000km@~|~@2769.89
+329,969,3,Versa@~|~@3@~|~@maintenance of 150.000km@~|~@3892.91
+330,956,3,Gol@~|~@1@~|~@maintenance of 50.000km@~|~@2037.22
+331,342,3,Fox@~|~@2@~|~@maintenance of 100.000km@~|~@2834.36
+332,513,3,T-Cross@~|~@2@~|~@maintenance of 100.000km@~|~@3451.32
+333,48,3,Sportage@~|~@1@~|~@maintenance of 50.000km@~|~@2161.06
+334,321,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@3729.96
+335,67,3,Logan@~|~@3@~|~@maintenance of 150.000km@~|~@3766.89
+336,974,3,T-Cross@~|~@1@~|~@maintenance of 50.000km@~|~@2292.12
+337,134,3,A1@~|~@3@~|~@maintenance of 150.000km@~|~@4316.05
+338,868,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4387.71
+339,460,3,2008@~|~@2@~|~@maintenance of 100.000km@~|~@2722.04
+340,907,3,Creta@~|~@2@~|~@maintenance of 100.000km@~|~@3437.03
+341,604,3,Kicks@~|~@1@~|~@maintenance of 50.000km@~|~@2258.96
+342,240,3,Corolla@~|~@1@~|~@maintenance of 50.000km@~|~@1937.88
+343,19,3,Fox@~|~@1@~|~@maintenance of 50.000km@~|~@2144.42
+344,213,3,Ranger@~|~@2@~|~@maintenance of 100.000km@~|~@2533.50
+345,449,3,208@~|~@1@~|~@maintenance of 50.000km@~|~@1850.13
+346,434,3,Elantra@~|~@2@~|~@maintenance of 100.000km@~|~@3277.80
+347,48,3,Kwid@~|~@3@~|~@maintenance of 150.000km@~|~@4537.76
+348,380,3,Fit@~|~@2@~|~@maintenance of 100.000km@~|~@2609.69
+349,434,3,Sportage@~|~@3@~|~@maintenance of 150.000km@~|~@4697.98
+350,26,3,CR-V@~|~@1@~|~@maintenance of 50.000km@~|~@2462.75
+351,604,3,Logan@~|~@3@~|~@maintenance of 150.000km@~|~@4465.15
+352,344,3,HB20@~|~@2@~|~@maintenance of 100.000km@~|~@3371.56
+353,921,3,TrailBlazer@~|~@1@~|~@maintenance of 50.000km@~|~@2451.45
+354,434,3,5008@~|~@1@~|~@maintenance of 50.000km@~|~@2295.12
+355,765,3,CR-V@~|~@3@~|~@maintenance of 150.000km@~|~@4113.65
+356,423,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4126.50
+357,190,3,T-Cross@~|~@1@~|~@maintenance of 50.000km@~|~@2236.69
+358,716,3,CR-V@~|~@1@~|~@maintenance of 50.000km@~|~@1665.00
+359,342,3,Yaris@~|~@3@~|~@maintenance of 150.000km@~|~@4945.02
+360,240,3,Focus@~|~@2@~|~@maintenance of 100.000km@~|~@3055.13
+361,213,3,Onix@~|~@2@~|~@maintenance of 100.000km@~|~@2741.04
+362,48,3,CR-V@~|~@2@~|~@maintenance of 100.000km@~|~@3210.15
+363,19,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@4348.14
+364,133,3,I30@~|~@2@~|~@maintenance of 100.000km@~|~@2800.75
+365,631,3,Renegade@~|~@2@~|~@maintenance of 100.000km@~|~@2716.12
+366,543,3,Sentra@~|~@2@~|~@maintenance of 100.000km@~|~@3421.41
+367,720,3,Creta@~|~@1@~|~@maintenance of 50.000km@~|~@1678.47
+368,686,3,Kicks@~|~@2@~|~@maintenance of 100.000km@~|~@3084.37
+369,630,3,5008@~|~@1@~|~@maintenance of 50.000km@~|~@2109.61
+370,845,3,Fox@~|~@2@~|~@maintenance of 100.000km@~|~@2596.63
+1,237,1,Ford@~|~@KA@~|~@2017@~|~@silver@~|~@used@~|~@32499.35
+2,410,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@49999
+3,652,1,Audi@~|~@Q3@~|~@2019@~|~@silver@~|~@semi-new@~|~@127500
+4,509,1,Nissan@~|~@Frontier@~|~@2017@~|~@green@~|~@used@~|~@87750
+5,730,1,Chevrolet@~|~@Onix@~|~@2018@~|~@white@~|~@semi-new@~|~@55245.75
+6,315,1,Toyota@~|~@Hilux@~|~@2019@~|~@black@~|~@semi-new@~|~@157248.3
+7,796,1,Renault@~|~@Kwid@~|~@2015@~|~@white@~|~@used@~|~@29250.65
+8,710,1,Honda@~|~@City@~|~@2020@~|~@black@~|~@new@~|~@80001
+9,459,1,Peugeot@~|~@208@~|~@2018@~|~@black@~|~@semi-new@~|~@55248.3
+10,488,1,Kia@~|~@Soul@~|~@2020@~|~@red@~|~@new@~|~@84997
+11,556,1,Ford@~|~@Edge@~|~@2018@~|~@black@~|~@semi-new@~|~@101999.15
+12,571,1,Hyundai@~|~@I30@~|~@2016@~|~@silver@~|~@used@~|~@55248.05
+13,912,1,Toyota@~|~@RAV4@~|~@2016@~|~@black@~|~@used@~|~@113750.65
+14,186,1,Kia@~|~@Ceratto@~|~@2019@~|~@silver@~|~@semi-new@~|~@80751.7
+15,652,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76501.7
+16,220,1,Volkswagen@~|~@T-Cross@~|~@2019@~|~@silver@~|~@semi-new@~|~@93499.15
+17,172,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114750.85
+18,968,1,Audi@~|~@Q3@~|~@2016@~|~@white@~|~@used@~|~@97498.05
+19,278,1,Ford@~|~@Ranger@~|~@2019@~|~@white@~|~@semi-new@~|~@114750
+20,555,1,Chevrolet@~|~@Onix@~|~@2019@~|~@black@~|~@semi-new@~|~@55250
+21,400,1,Toyota@~|~@Yaris@~|~@2019@~|~@green@~|~@semi-new@~|~@63753.4
+22,284,1,Volkswagen@~|~@Jetta@~|~@2018@~|~@black@~|~@semi-new@~|~@93499.15
+23,979,1,Kia@~|~@Ceratto@~|~@2016@~|~@blue@~|~@used@~|~@61749.35
+24,782,1,Hyundai@~|~@I30@~|~@2017@~|~@green@~|~@used@~|~@55250.65
+25,515,1,Peugeot@~|~@3008@~|~@2016@~|~@green@~|~@used@~|~@61749.35
+26,309,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@50002
+27,968,1,Hyundai@~|~@Creta@~|~@2018@~|~@silver@~|~@semi-new@~|~@89249.15
+28,909,1,Hyundai@~|~@Sonata@~|~@2018@~|~@white@~|~@semi-new@~|~@110497.45
+29,579,1,Audi@~|~@Q3@~|~@2018@~|~@silver@~|~@semi-new@~|~@127500
+30,591,1,Peugeot@~|~@308@~|~@2018@~|~@green@~|~@semi-new@~|~@63750.85
+31,488,1,Volkswagen@~|~@Polo@~|~@2017@~|~@silver@~|~@used@~|~@45501.3
+32,954,1,Kia@~|~@Rio@~|~@2019@~|~@silver@~|~@semi-new@~|~@67999.15
+33,94,1,Volkswagen@~|~@T-Cross@~|~@2020@~|~@black@~|~@new@~|~@109999
+34,710,1,Toyota@~|~@Corolla@~|~@2015@~|~@red@~|~@used@~|~@81251.3
+35,4,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+36,721,1,Kia@~|~@Ceratto@~|~@2019@~|~@black@~|~@semi-new@~|~@80752.55
+37,736,1,Audi@~|~@A1@~|~@2020@~|~@blue@~|~@new@~|~@90003
+38,709,1,Honda@~|~@Fit@~|~@2016@~|~@silver@~|~@used@~|~@39000.65
+39,503,1,Ford@~|~@Fiesta@~|~@2020@~|~@green@~|~@new@~|~@60004
+40,320,1,Volkswagen@~|~@Polo@~|~@2015@~|~@red@~|~@used@~|~@45498.7
+41,353,1,Renault@~|~@Duster@~|~@2015@~|~@blue@~|~@used@~|~@55250.65
+42,782,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+43,104,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38247.45
+44,964,1,Hyundai@~|~@Creta@~|~@2016@~|~@green@~|~@used@~|~@68251.95
+45,341,1,Ford@~|~@Fiesta@~|~@2019@~|~@silver@~|~@semi-new@~|~@50998.3
+46,292,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45498.05
+47,866,1,Renault@~|~@Logan@~|~@2020@~|~@black@~|~@new@~|~@70000
+48,20,1,Peugeot@~|~@3008@~|~@2016@~|~@white@~|~@used@~|~@61750.65
+49,782,1,Nissan@~|~@Versa@~|~@2018@~|~@black@~|~@semi-new@~|~@51002.55
+50,771,1,Audi@~|~@A3@~|~@2017@~|~@white@~|~@used@~|~@81248.05
+51,810,1,Peugeot@~|~@2008@~|~@2018@~|~@blue@~|~@semi-new@~|~@63750
+52,200,1,Chevrolet@~|~@Onix@~|~@2017@~|~@red@~|~@used@~|~@42249.35
+53,964,1,Honda@~|~@H-RV@~|~@2017@~|~@silver@~|~@used@~|~@68248.7
+54,335,1,Audi@~|~@A3@~|~@2017@~|~@black@~|~@used@~|~@81247.4
+55,468,1,Renault@~|~@Sandero@~|~@2018@~|~@green@~|~@semi-new@~|~@55249.15
+56,727,1,Volkswagen@~|~@Polo@~|~@2019@~|~@blue@~|~@semi-new@~|~@59502.55
+57,305,1,Audi@~|~@A3@~|~@2016@~|~@black@~|~@used@~|~@81250.65
+58,282,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35748.7
+59,441,1,Honda@~|~@City@~|~@2015@~|~@silver@~|~@used@~|~@51999.35
+60,748,1,Volkswagen@~|~@Virtus@~|~@2019@~|~@blue@~|~@semi-new@~|~@68001.7
+61,566,1,Toyota@~|~@Yaris@~|~@2015@~|~@white@~|~@used@~|~@48748.05
+62,863,1,Honda@~|~@CR-V@~|~@2020@~|~@blue@~|~@new@~|~@135000
+63,365,1,Audi@~|~@A1@~|~@2019@~|~@white@~|~@semi-new@~|~@76500
+64,428,1,Kia@~|~@Ceratto@~|~@2020@~|~@silver@~|~@new@~|~@95000
+65,949,1,Peugeot@~|~@5008@~|~@2018@~|~@red@~|~@semi-new@~|~@106249.15
+66,646,1,Honda@~|~@H-RV@~|~@2019@~|~@red@~|~@semi-new@~|~@89249.15
+67,964,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29249.35
+68,468,1,Honda@~|~@CR-V@~|~@2019@~|~@white@~|~@semi-new@~|~@114748.3
+69,887,1,Audi@~|~@A1@~|~@2018@~|~@black@~|~@semi-new@~|~@76502.55
+70,887,1,Nissan@~|~@Versa@~|~@2020@~|~@silver@~|~@new@~|~@60003
+71,246,1,Nissan@~|~@March@~|~@2018@~|~@white@~|~@semi-new@~|~@38250.85
+72,557,1,Honda@~|~@New Civic@~|~@2016@~|~@green@~|~@used@~|~@78000.65
+73,909,1,Honda@~|~@City@~|~@2019@~|~@red@~|~@semi-new@~|~@68001.7
+74,591,1,Peugeot@~|~@2008@~|~@2019@~|~@silver@~|~@semi-new@~|~@63750
+75,887,1,Hyundai@~|~@HB20@~|~@2015@~|~@red@~|~@used@~|~@39000
+76,393,1,Renault@~|~@Fluence@~|~@2016@~|~@red@~|~@used@~|~@58499.35
+77,997,1,Renault@~|~@Sandero@~|~@2016@~|~@blue@~|~@used@~|~@42250.65
+78,820,1,Chevrolet@~|~@Cobalt@~|~@2016@~|~@blue@~|~@used@~|~@45497.4
+79,582,1,Audi@~|~@A1@~|~@2018@~|~@red@~|~@semi-new@~|~@76500.85
+80,887,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76500
+81,755,1,Hyundai@~|~@Sonata@~|~@2020@~|~@blue@~|~@new@~|~@129999
+82,500,1,Honda@~|~@H-RV@~|~@2016@~|~@black@~|~@used@~|~@68250.65
+83,350,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@green@~|~@used@~|~@71498.05
+84,810,1,Toyota@~|~@Hilux@~|~@2017@~|~@blue@~|~@used@~|~@120249.35
+85,201,1,Peugeot@~|~@2008@~|~@2016@~|~@green@~|~@used@~|~@48750
+86,973,1,Peugeot@~|~@3008@~|~@2015@~|~@white@~|~@used@~|~@61749.35
+87,697,1,Renault@~|~@Sandero@~|~@2019@~|~@silver@~|~@semi-new@~|~@55250.85
+88,555,1,Hyundai@~|~@IX35@~|~@2017@~|~@blue@~|~@used@~|~@61748.7
+89,172,1,Chevrolet@~|~@TrailBlazer@~|~@2015@~|~@green@~|~@used@~|~@110498.7
+90,582,1,Volkswagen@~|~@Gol@~|~@2017@~|~@red@~|~@used@~|~@29249.35
+91,582,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@blue@~|~@used@~|~@87750
+92,220,1,Honda@~|~@New Civic@~|~@2015@~|~@silver@~|~@used@~|~@78001.3
+93,526,1,Renault@~|~@Duster@~|~@2015@~|~@red@~|~@used@~|~@55249.35
+94,724,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@red@~|~@used@~|~@71500.65
+95,10,1,Jeep@~|~@Renegade@~|~@2016@~|~@white@~|~@used@~|~@55251.3
+96,971,1,Toyota@~|~@Hilux@~|~@2018@~|~@red@~|~@semi-new@~|~@157252.55
+97,706,1,Honda@~|~@New Civic@~|~@2016@~|~@white@~|~@used@~|~@77999.35
+98,172,1,Ford@~|~@KA@~|~@2018@~|~@red@~|~@semi-new@~|~@42502.55
+99,318,1,Renault@~|~@Logan@~|~@2019@~|~@blue@~|~@semi-new@~|~@59498.3
+100,603,1,Peugeot@~|~@3008@~|~@2015@~|~@blue@~|~@used@~|~@61751.95
+101,721,1,Nissan@~|~@Kicks@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+102,815,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+103,628,1,Peugeot@~|~@308@~|~@2017@~|~@red@~|~@used@~|~@48749.35
+104,88,1,Nissan@~|~@Sentra@~|~@2017@~|~@black@~|~@used@~|~@61747.4
+105,664,1,Volkswagen@~|~@Fox@~|~@2015@~|~@white@~|~@used@~|~@35750.65
+106,429,1,Nissan@~|~@Sentra@~|~@2020@~|~@green@~|~@new@~|~@94996
+107,446,1,Chevrolet@~|~@Tracker@~|~@2020@~|~@black@~|~@new@~|~@109996
+108,59,1,Peugeot@~|~@2008@~|~@2017@~|~@red@~|~@used@~|~@48748.05
+109,419,1,Audi@~|~@A4@~|~@2020@~|~@green@~|~@new@~|~@159996
+110,747,1,Volkswagen@~|~@Golf@~|~@2018@~|~@white@~|~@semi-new@~|~@97749.15
+111,441,1,Volkswagen@~|~@Polo@~|~@2017@~|~@red@~|~@used@~|~@45499.35
+112,704,1,Ford@~|~@KA@~|~@2016@~|~@black@~|~@used@~|~@32501.95
+113,922,1,Chevrolet@~|~@S-10@~|~@2015@~|~@white@~|~@used@~|~@97499.35
+114,429,1,Volkswagen@~|~@Passat@~|~@2020@~|~@silver@~|~@new@~|~@135002
+115,932,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+116,371,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114752.55
+117,315,1,Renault@~|~@Duster@~|~@2019@~|~@white@~|~@semi-new@~|~@72252.55
+118,556,1,Chevrolet@~|~@Spin@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+119,784,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29251.3
+120,104,1,Chevrolet@~|~@Onix@~|~@2015@~|~@white@~|~@used@~|~@42248.7
+121,641,1,Ford@~|~@Ranger@~|~@2017@~|~@black@~|~@used@~|~@87749.35
+122,664,1,Kia@~|~@Ceratto@~|~@2019@~|~@green@~|~@semi-new@~|~@80747.45
+123,641,1,Hyundai@~|~@Creta@~|~@2018@~|~@green@~|~@semi-new@~|~@89251.7
+124,35,1,Toyota@~|~@Corolla@~|~@2020@~|~@silver@~|~@new@~|~@124996
+125,557,1,Kia@~|~@Rio@~|~@2018@~|~@green@~|~@semi-new@~|~@68003.4
+126,971,1,Chevrolet@~|~@Tracker@~|~@2016@~|~@green@~|~@used@~|~@71500
+127,850,1,Kia@~|~@Sportage@~|~@2018@~|~@white@~|~@semi-new@~|~@102003.4
+128,202,1,Toyota@~|~@Etios@~|~@2015@~|~@white@~|~@used@~|~@35750
+129,722,1,Nissan@~|~@March@~|~@2017@~|~@green@~|~@used@~|~@29248.7
+130,425,1,Kia@~|~@Ceratto@~|~@2016@~|~@white@~|~@used@~|~@61749.35
+131,175,1,Chevrolet@~|~@Onix@~|~@2019@~|~@white@~|~@semi-new@~|~@55250.85
+132,234,1,Peugeot@~|~@308@~|~@2017@~|~@green@~|~@used@~|~@48748.7
+133,832,1,Nissan@~|~@March@~|~@2016@~|~@green@~|~@used@~|~@29250.65
+134,246,1,Renault@~|~@Logan@~|~@2020@~|~@blue@~|~@new@~|~@70000
+135,186,1,Ford@~|~@KA@~|~@2019@~|~@blue@~|~@semi-new@~|~@42502.55
+136,180,1,Toyota@~|~@Etios@~|~@2020@~|~@silver@~|~@new@~|~@54998
+137,820,1,Audi@~|~@A1@~|~@2018@~|~@silver@~|~@semi-new@~|~@76498.3
+138,144,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+139,59,1,Peugeot@~|~@3008@~|~@2017@~|~@white@~|~@used@~|~@61747.4
+140,186,1,Chevrolet@~|~@Onix@~|~@2017@~|~@silver@~|~@used@~|~@42249.35
+141,144,1,Toyota@~|~@Corolla@~|~@2016@~|~@blue@~|~@used@~|~@81250.65
+142,520,1,Ford@~|~@Edge@~|~@2016@~|~@white@~|~@used@~|~@78001.3
+143,309,1,Nissan@~|~@Versa@~|~@2018@~|~@white@~|~@semi-new@~|~@51002.55
+144,212,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@black@~|~@used@~|~@71498.05
+145,443,1,Nissan@~|~@Frontier@~|~@2017@~|~@red@~|~@used@~|~@87750.65
+146,784,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@white@~|~@used@~|~@87749.35
+147,651,1,Volkswagen@~|~@Polo@~|~@2016@~|~@white@~|~@used@~|~@45501.3
+148,324,1,Ford@~|~@Ranger@~|~@2020@~|~@black@~|~@new@~|~@134999
+149,832,1,Hyundai@~|~@HB20@~|~@2020@~|~@blue@~|~@new@~|~@59999
+150,396,1,Nissan@~|~@Kicks@~|~@2020@~|~@white@~|~@new@~|~@89998
+151,859,1,Honda@~|~@New Civic@~|~@2015@~|~@black@~|~@used@~|~@78003.25
+152,81,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@white@~|~@used@~|~@71500
+153,278,1,Ford@~|~@Ranger@~|~@2016@~|~@blue@~|~@used@~|~@87750
+154,796,1,Chevrolet@~|~@Onix@~|~@2017@~|~@black@~|~@used@~|~@42249.35
+155,932,1,Honda@~|~@Fit@~|~@2016@~|~@black@~|~@used@~|~@39000.65
+156,594,1,Renault@~|~@Fluence@~|~@2018@~|~@white@~|~@semi-new@~|~@76499.15
+157,220,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35749.35
+158,425,1,Renault@~|~@Sandero@~|~@2017@~|~@red@~|~@used@~|~@42250
+159,987,1,Volkswagen@~|~@Jetta@~|~@2015@~|~@white@~|~@used@~|~@71501.95
+160,979,1,Hyundai@~|~@IX35@~|~@2017@~|~@red@~|~@used@~|~@61751.95
+161,396,1,Jeep@~|~@Renegade@~|~@2018@~|~@blue@~|~@semi-new@~|~@72250.85
+162,535,1,Nissan@~|~@March@~|~@2018@~|~@silver@~|~@semi-new@~|~@38253.4
+163,555,1,Hyundai@~|~@HB20@~|~@2020@~|~@black@~|~@new@~|~@59996
+164,532,1,Hyundai@~|~@I30@~|~@2016@~|~@black@~|~@used@~|~@55250.65
+165,400,1,Ford@~|~@KA@~|~@2015@~|~@black@~|~@used@~|~@32500
+166,520,1,Volkswagen@~|~@Golf@~|~@2019@~|~@silver@~|~@semi-new@~|~@97748.3
+167,278,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45501.3
+168,587,1,Hyundai@~|~@Elantra@~|~@2019@~|~@red@~|~@semi-new@~|~@76499.15
+169,639,1,Volkswagen@~|~@Fox@~|~@2020@~|~@silver@~|~@new@~|~@55002
+170,137,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@blue@~|~@used@~|~@87748.05
+171,217,1,Renault@~|~@Duster@~|~@2020@~|~@blue@~|~@new@~|~@84997
+172,223,1,Honda@~|~@Fit@~|~@2018@~|~@white@~|~@semi-new@~|~@51001.7
+173,782,1,Kia@~|~@Rio@~|~@2017@~|~@blue@~|~@used@~|~@52001.3
+174,366,1,Honda@~|~@Fit@~|~@2016@~|~@white@~|~@used@~|~@39001.3
+175,546,1,Volkswagen@~|~@Virtus@~|~@2017@~|~@black@~|~@used@~|~@52000
+176,966,1,Audi@~|~@A1@~|~@2015@~|~@green@~|~@used@~|~@58499.35
+177,320,1,Toyota@~|~@Etios@~|~@2018@~|~@black@~|~@semi-new@~|~@46752.55
+178,903,1,Volkswagen@~|~@Gol@~|~@2019@~|~@green@~|~@semi-new@~|~@38250.85
+179,160,1,Jeep@~|~@Compass@~|~@2015@~|~@green@~|~@used@~|~@78001.3
+180,850,1,Peugeot@~|~@308@~|~@2015@~|~@blue@~|~@used@~|~@48748.7
+181,90,1,Renault@~|~@Kwid@~|~@2015@~|~@black@~|~@used@~|~@29249.35
+182,721,1,Toyota@~|~@Etios@~|~@2019@~|~@white@~|~@semi-new@~|~@46749.15
+183,718,1,Hyundai@~|~@HB20@~|~@2016@~|~@green@~|~@used@~|~@39000
+184,293,1,Nissan@~|~@Sentra@~|~@2018@~|~@green@~|~@semi-new@~|~@80750
+185,633,1,Renault@~|~@Sandero@~|~@2020@~|~@blue@~|~@new@~|~@64997
+186,951,1,Honda@~|~@Fit@~|~@2019@~|~@green@~|~@semi-new@~|~@50998.3
+187,458,1,Nissan@~|~@Versa@~|~@2017@~|~@black@~|~@used@~|~@38998.05
+188,900,1,Volkswagen@~|~@T-Cross@~|~@2015@~|~@red@~|~@used@~|~@71499.35
+189,591,1,Peugeot@~|~@308@~|~@2017@~|~@black@~|~@used@~|~@48751.3
+190,517,1,Hyundai@~|~@HB20@~|~@2018@~|~@green@~|~@semi-new@~|~@51001.7
+191,179,1,Volkswagen@~|~@Polo@~|~@2020@~|~@black@~|~@new@~|~@70001
+192,63,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@red@~|~@used@~|~@87748.05
+193,608,1,Volkswagen@~|~@Gol@~|~@2019@~|~@red@~|~@semi-new@~|~@38247.45
+194,110,1,Hyundai@~|~@I30@~|~@2017@~|~@black@~|~@used@~|~@55250.65
+195,459,1,Jeep@~|~@Renegade@~|~@2018@~|~@blue@~|~@semi-new@~|~@72250.85
+196,458,1,Hyundai@~|~@Sonata@~|~@2020@~|~@green@~|~@new@~|~@129998
+197,212,1,Chevrolet@~|~@S-10@~|~@2019@~|~@blue@~|~@semi-new@~|~@127499.15
+198,829,1,Renault@~|~@Kwid@~|~@2020@~|~@silver@~|~@new@~|~@44999
+199,335,1,Toyota@~|~@Yaris@~|~@2017@~|~@white@~|~@used@~|~@48748.05
+200,832,1,Nissan@~|~@Versa@~|~@2020@~|~@white@~|~@new@~|~@59999
+201,954,1,Volkswagen@~|~@Golf@~|~@2016@~|~@black@~|~@used@~|~@74749.35
+202,294,1,Honda@~|~@New Civic@~|~@2017@~|~@white@~|~@used@~|~@78000
+203,458,1,Jeep@~|~@Renegade@~|~@2016@~|~@blue@~|~@used@~|~@55251.95
+204,737,1,Peugeot@~|~@2008@~|~@2020@~|~@green@~|~@new@~|~@75000
+205,927,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38249.15
+206,967,1,Volkswagen@~|~@Virtus@~|~@2017@~|~@white@~|~@used@~|~@51999.35
+207,443,1,Hyundai@~|~@Tucson@~|~@2019@~|~@red@~|~@semi-new@~|~@136001.7
+208,401,1,Peugeot@~|~@308@~|~@2015@~|~@black@~|~@used@~|~@48750.65
+209,466,1,Volkswagen@~|~@T-Cross@~|~@2018@~|~@green@~|~@semi-new@~|~@93500
+210,81,1,Volkswagen@~|~@Fox@~|~@2018@~|~@green@~|~@semi-new@~|~@46750
+211,137,1,Volkswagen@~|~@Passat@~|~@2016@~|~@blue@~|~@used@~|~@87750.65
+212,727,1,Renault@~|~@Logan@~|~@2017@~|~@white@~|~@used@~|~@45500
+213,458,1,Volkswagen@~|~@Polo@~|~@2015@~|~@blue@~|~@used@~|~@45498.7
+214,755,1,Volkswagen@~|~@Virtus@~|~@2020@~|~@silver@~|~@new@~|~@80002
+215,429,1,Chevrolet@~|~@Equinox@~|~@2015@~|~@red@~|~@used@~|~@87751.3
+216,983,1,Nissan@~|~@Versa@~|~@2015@~|~@white@~|~@used@~|~@39000.65
+217,500,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+218,613,1,Nissan@~|~@Sentra@~|~@2019@~|~@white@~|~@semi-new@~|~@80750
+219,722,1,Volkswagen@~|~@Jetta@~|~@2019@~|~@white@~|~@semi-new@~|~@93498.3
+220,433,1,Hyundai@~|~@Tucson@~|~@2016@~|~@red@~|~@used@~|~@104000
+1,237,1,Ford@~|~@KA@~|~@2017@~|~@silver@~|~@used@~|~@32499.35
+2,410,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@49999
+3,652,1,Audi@~|~@Q3@~|~@2019@~|~@silver@~|~@semi-new@~|~@127500
+4,509,1,Nissan@~|~@Frontier@~|~@2017@~|~@green@~|~@used@~|~@87750
+5,730,1,Chevrolet@~|~@Onix@~|~@2018@~|~@white@~|~@semi-new@~|~@55245.75
+6,315,1,Toyota@~|~@Hilux@~|~@2019@~|~@black@~|~@semi-new@~|~@157248.3
+7,796,1,Renault@~|~@Kwid@~|~@2015@~|~@white@~|~@used@~|~@29250.65
+8,710,1,Honda@~|~@City@~|~@2020@~|~@black@~|~@new@~|~@80001
+9,459,1,Peugeot@~|~@208@~|~@2018@~|~@black@~|~@semi-new@~|~@55248.3
+10,488,1,Kia@~|~@Soul@~|~@2020@~|~@red@~|~@new@~|~@84997
+11,556,1,Ford@~|~@Edge@~|~@2018@~|~@black@~|~@semi-new@~|~@101999.15
+12,571,1,Hyundai@~|~@I30@~|~@2016@~|~@silver@~|~@used@~|~@55248.05
+13,912,1,Toyota@~|~@RAV4@~|~@2016@~|~@black@~|~@used@~|~@113750.65
+14,186,1,Kia@~|~@Ceratto@~|~@2019@~|~@silver@~|~@semi-new@~|~@80751.7
+15,652,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76501.7
+16,220,1,Volkswagen@~|~@T-Cross@~|~@2019@~|~@silver@~|~@semi-new@~|~@93499.15
+17,172,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114750.85
+18,968,1,Audi@~|~@Q3@~|~@2016@~|~@white@~|~@used@~|~@97498.05
+19,278,1,Ford@~|~@Ranger@~|~@2019@~|~@white@~|~@semi-new@~|~@114750
+20,555,1,Chevrolet@~|~@Onix@~|~@2019@~|~@black@~|~@semi-new@~|~@55250
+21,400,1,Toyota@~|~@Yaris@~|~@2019@~|~@green@~|~@semi-new@~|~@63753.4
+22,284,1,Volkswagen@~|~@Jetta@~|~@2018@~|~@black@~|~@semi-new@~|~@93499.15
+23,979,1,Kia@~|~@Ceratto@~|~@2016@~|~@blue@~|~@used@~|~@61749.35
+24,782,1,Hyundai@~|~@I30@~|~@2017@~|~@green@~|~@used@~|~@55250.65
+25,515,1,Peugeot@~|~@3008@~|~@2016@~|~@green@~|~@used@~|~@61749.35
+26,309,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@50002
+27,968,1,Hyundai@~|~@Creta@~|~@2018@~|~@silver@~|~@semi-new@~|~@89249.15
+28,909,1,Hyundai@~|~@Sonata@~|~@2018@~|~@white@~|~@semi-new@~|~@110497.45
+29,579,1,Audi@~|~@Q3@~|~@2018@~|~@silver@~|~@semi-new@~|~@127500
+30,591,1,Peugeot@~|~@308@~|~@2018@~|~@green@~|~@semi-new@~|~@63750.85
+31,488,1,Volkswagen@~|~@Polo@~|~@2017@~|~@silver@~|~@used@~|~@45501.3
+32,954,1,Kia@~|~@Rio@~|~@2019@~|~@silver@~|~@semi-new@~|~@67999.15
+33,94,1,Volkswagen@~|~@T-Cross@~|~@2020@~|~@black@~|~@new@~|~@109999
+34,710,1,Toyota@~|~@Corolla@~|~@2015@~|~@red@~|~@used@~|~@81251.3
+35,4,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+36,721,1,Kia@~|~@Ceratto@~|~@2019@~|~@black@~|~@semi-new@~|~@80752.55
+37,736,1,Audi@~|~@A1@~|~@2020@~|~@blue@~|~@new@~|~@90003
+38,709,1,Honda@~|~@Fit@~|~@2016@~|~@silver@~|~@used@~|~@39000.65
+39,503,1,Ford@~|~@Fiesta@~|~@2020@~|~@green@~|~@new@~|~@60004
+40,320,1,Volkswagen@~|~@Polo@~|~@2015@~|~@red@~|~@used@~|~@45498.7
+41,353,1,Renault@~|~@Duster@~|~@2015@~|~@blue@~|~@used@~|~@55250.65
+42,782,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+43,104,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38247.45
+44,964,1,Hyundai@~|~@Creta@~|~@2016@~|~@green@~|~@used@~|~@68251.95
+45,341,1,Ford@~|~@Fiesta@~|~@2019@~|~@silver@~|~@semi-new@~|~@50998.3
+46,292,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45498.05
+47,866,1,Renault@~|~@Logan@~|~@2020@~|~@black@~|~@new@~|~@70000
+48,20,1,Peugeot@~|~@3008@~|~@2016@~|~@white@~|~@used@~|~@61750.65
+49,782,1,Nissan@~|~@Versa@~|~@2018@~|~@black@~|~@semi-new@~|~@51002.55
+50,771,1,Audi@~|~@A3@~|~@2017@~|~@white@~|~@used@~|~@81248.05
+51,810,1,Peugeot@~|~@2008@~|~@2018@~|~@blue@~|~@semi-new@~|~@63750
+52,200,1,Chevrolet@~|~@Onix@~|~@2017@~|~@red@~|~@used@~|~@42249.35
+53,964,1,Honda@~|~@H-RV@~|~@2017@~|~@silver@~|~@used@~|~@68248.7
+54,335,1,Audi@~|~@A3@~|~@2017@~|~@black@~|~@used@~|~@81247.4
+55,468,1,Renault@~|~@Sandero@~|~@2018@~|~@green@~|~@semi-new@~|~@55249.15
+56,727,1,Volkswagen@~|~@Polo@~|~@2019@~|~@blue@~|~@semi-new@~|~@59502.55
+57,305,1,Audi@~|~@A3@~|~@2016@~|~@black@~|~@used@~|~@81250.65
+58,282,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35748.7
+59,441,1,Honda@~|~@City@~|~@2015@~|~@silver@~|~@used@~|~@51999.35
+60,748,1,Volkswagen@~|~@Virtus@~|~@2019@~|~@blue@~|~@semi-new@~|~@68001.7
+61,566,1,Toyota@~|~@Yaris@~|~@2015@~|~@white@~|~@used@~|~@48748.05
+62,863,1,Honda@~|~@CR-V@~|~@2020@~|~@blue@~|~@new@~|~@135000
+63,365,1,Audi@~|~@A1@~|~@2019@~|~@white@~|~@semi-new@~|~@76500
+64,428,1,Kia@~|~@Ceratto@~|~@2020@~|~@silver@~|~@new@~|~@95000
+65,949,1,Peugeot@~|~@5008@~|~@2018@~|~@red@~|~@semi-new@~|~@106249.15
+66,646,1,Honda@~|~@H-RV@~|~@2019@~|~@red@~|~@semi-new@~|~@89249.15
+67,964,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29249.35
+68,468,1,Honda@~|~@CR-V@~|~@2019@~|~@white@~|~@semi-new@~|~@114748.3
+69,887,1,Audi@~|~@A1@~|~@2018@~|~@black@~|~@semi-new@~|~@76502.55
+70,887,1,Nissan@~|~@Versa@~|~@2020@~|~@silver@~|~@new@~|~@60003
+71,246,1,Nissan@~|~@March@~|~@2018@~|~@white@~|~@semi-new@~|~@38250.85
+72,557,1,Honda@~|~@New Civic@~|~@2016@~|~@green@~|~@used@~|~@78000.65
+73,909,1,Honda@~|~@City@~|~@2019@~|~@red@~|~@semi-new@~|~@68001.7
+74,591,1,Peugeot@~|~@2008@~|~@2019@~|~@silver@~|~@semi-new@~|~@63750
+75,887,1,Hyundai@~|~@HB20@~|~@2015@~|~@red@~|~@used@~|~@39000
+76,393,1,Renault@~|~@Fluence@~|~@2016@~|~@red@~|~@used@~|~@58499.35
+77,997,1,Renault@~|~@Sandero@~|~@2016@~|~@blue@~|~@used@~|~@42250.65
+78,820,1,Chevrolet@~|~@Cobalt@~|~@2016@~|~@blue@~|~@used@~|~@45497.4
+79,582,1,Audi@~|~@A1@~|~@2018@~|~@red@~|~@semi-new@~|~@76500.85
+80,887,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76500
+221,781,2,Ranger@~|~@1@~|~@review 10km@~|~@471.13
+222,368,2,Onix@~|~@4@~|~@review 50km@~|~@920.12
+223,346,2,Ceratto@~|~@2@~|~@review 20km@~|~@473.32
+224,805,2,T-Cross@~|~@2@~|~@review 20km@~|~@485.44
+225,789,2,KA@~|~@2@~|~@review 20km@~|~@469.26
+226,374,2,3008@~|~@4@~|~@review 50km@~|~@1422.74
+227,207,2,RAV4@~|~@2@~|~@review 20km@~|~@400.66
+228,354,2,Versa@~|~@3@~|~@review 30km@~|~@616.06
+229,801,2,Renegade@~|~@1@~|~@review 10km@~|~@492.63
+230,801,2,Corolla@~|~@2@~|~@review 20km@~|~@572.07
+231,122,2,Cobalt@~|~@4@~|~@review 50km@~|~@1071.56
+232,450,2,Onix@~|~@4@~|~@review 50km@~|~@1373.14
+233,673,2,308@~|~@2@~|~@review 20km@~|~@555.36
+234,734,2,2008@~|~@2@~|~@review 20km@~|~@497.63
+235,260,2,City@~|~@4@~|~@review 50km@~|~@1364.48
+236,255,2,Fiesta@~|~@4@~|~@review 50km@~|~@1197.44
+237,660,2,Virtus@~|~@1@~|~@review 10km@~|~@428.77
+238,142,2,Sportage@~|~@2@~|~@review 20km@~|~@555.14
+239,673,2,Gol@~|~@1@~|~@review 10km@~|~@401.59
+240,407,2,Duster@~|~@2@~|~@review 20km@~|~@545.12
+241,751,2,RAV4@~|~@2@~|~@review 20km@~|~@525.77
+242,169,2,Renegade@~|~@4@~|~@review 50km@~|~@1255.92
+243,860,2,Polo@~|~@2@~|~@review 20km@~|~@429.29
+244,346,2,Fiesta@~|~@2@~|~@review 20km@~|~@467.34
+245,450,2,Cobalt@~|~@1@~|~@review 10km@~|~@438.63
+246,75,2,HB20@~|~@1@~|~@review 10km@~|~@369.97
+247,751,2,Cobalt@~|~@2@~|~@review 20km@~|~@590.57
+248,919,2,T-Cross@~|~@4@~|~@review 50km@~|~@1202.59
+249,306,2,Kicks@~|~@1@~|~@review 10km@~|~@362.80
+250,714,2,March@~|~@4@~|~@review 50km@~|~@1063.26
+251,122,2,Q3@~|~@3@~|~@review 30km@~|~@720.87
+252,609,2,Gol@~|~@3@~|~@review 30km@~|~@702.08
+253,45,2,Ceratto@~|~@1@~|~@review 10km@~|~@479.08
+254,159,2,Golf@~|~@4@~|~@review 50km@~|~@1328.68
+255,191,2,New Civic@~|~@2@~|~@review 20km@~|~@437.66
+256,923,2,TrailBlazer@~|~@3@~|~@review 30km@~|~@693.77
+257,789,2,Logan@~|~@2@~|~@review 20km@~|~@463.06
+258,405,2,Yaris@~|~@1@~|~@review 10km@~|~@407.80
+259,919,2,3008@~|~@2@~|~@review 20km@~|~@450.85
+260,354,2,Passat@~|~@1@~|~@review 10km@~|~@467.43
+261,103,2,Gol@~|~@2@~|~@review 20km@~|~@535.91
+262,729,2,KA@~|~@1@~|~@review 10km@~|~@455.71
+263,368,2,Logan@~|~@4@~|~@review 50km@~|~@951.59
+264,287,2,Corolla@~|~@3@~|~@review 30km@~|~@748.21
+265,734,2,T-Cross@~|~@2@~|~@review 20km@~|~@431.71
+266,352,2,A4@~|~@3@~|~@review 30km@~|~@698.88
+267,855,2,Polo@~|~@4@~|~@review 50km@~|~@1322.68
+268,412,2,Soul@~|~@3@~|~@review 30km@~|~@640.87
+269,405,2,Frontier@~|~@4@~|~@review 50km@~|~@1065.79
+270,228,2,I30@~|~@2@~|~@review 20km@~|~@437.56
+271,923,2,Renegade@~|~@3@~|~@review 30km@~|~@604.69
+272,14,2,Sentra@~|~@3@~|~@review 30km@~|~@564.60
+273,452,2,Sandero@~|~@4@~|~@review 50km@~|~@1326.30
+274,197,2,Rio@~|~@2@~|~@review 20km@~|~@524.33
+275,368,2,IX35@~|~@1@~|~@review 10km@~|~@423.62
+276,214,2,Corolla@~|~@2@~|~@review 20km@~|~@476.38
+277,169,2,Tucson@~|~@2@~|~@review 20km@~|~@489.13
+278,751,2,Gol@~|~@3@~|~@review 30km@~|~@578.33
+279,346,2,Q3@~|~@2@~|~@review 20km@~|~@598.76
+280,214,2,A1@~|~@4@~|~@review 50km@~|~@1091.55
+281,122,2,Kicks@~|~@1@~|~@review 10km@~|~@437.99
+282,228,2,Onix@~|~@4@~|~@review 50km@~|~@936.79
+283,368,2,Fit@~|~@1@~|~@review 10km@~|~@396.87
+284,734,2,5008@~|~@4@~|~@review 50km@~|~@1431.00
+285,374,2,Spin@~|~@4@~|~@review 50km@~|~@975.62
+286,354,2,Polo@~|~@2@~|~@review 20km@~|~@571.57
+287,159,2,Kicks@~|~@4@~|~@review 50km@~|~@1282.60
+288,177,2,Renegade@~|~@2@~|~@review 20km@~|~@485.40
+289,942,2,Sportage@~|~@3@~|~@review 30km@~|~@573.76
+290,159,2,Corolla@~|~@2@~|~@review 20km@~|~@505.91
+301,460,3,Virtus@~|~@2@~|~@maintenance of 100.000km@~|~@3324.94
+302,414,3,Kicks@~|~@2@~|~@maintenance of 100.000km@~|~@2740.27
+303,213,3,Versa@~|~@1@~|~@maintenance of 50.000km@~|~@2079.16
+304,528,3,T-Cross@~|~@2@~|~@maintenance of 100.000km@~|~@2657.44
+305,510,3,Kwid@~|~@1@~|~@maintenance of 50.000km@~|~@1564.69
+306,312,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@4907.06
+307,518,3,Yaris@~|~@1@~|~@maintenance of 50.000km@~|~@1847.50
+308,52,3,Sentra@~|~@2@~|~@maintenance of 100.000km@~|~@2841.18
+309,604,3,Compass@~|~@2@~|~@maintenance of 100.000km@~|~@2889.64
+310,543,3,Tracker@~|~@1@~|~@maintenance of 50.000km@~|~@1553.76
+311,134,3,Sandero@~|~@1@~|~@maintenance of 50.000km@~|~@2126.32
+312,564,3,Renegade@~|~@1@~|~@maintenance of 50.000km@~|~@1924.94
+313,344,3,Gol@~|~@2@~|~@maintenance of 100.000km@~|~@3343.21
+314,190,3,TrailBlazer@~|~@3@~|~@maintenance of 150.000km@~|~@4458.08
+315,107,3,Renegade@~|~@1@~|~@maintenance of 50.000km@~|~@2167.62
+316,688,3,Virtus@~|~@2@~|~@maintenance of 100.000km@~|~@3073.96
+317,513,3,Jetta@~|~@3@~|~@maintenance of 150.000km@~|~@4779.86
+318,377,3,HB20@~|~@3@~|~@maintenance of 150.000km@~|~@4867.22
+319,146,3,Ceratto@~|~@2@~|~@maintenance of 100.000km@~|~@2594.86
+320,564,3,Yaris@~|~@1@~|~@maintenance of 50.000km@~|~@2441.19
+321,513,3,Kwid@~|~@3@~|~@maintenance of 150.000km@~|~@4856.93
+322,631,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4173.63
+323,518,3,Golf@~|~@2@~|~@maintenance of 100.000km@~|~@3490.75
+324,52,3,Sentra@~|~@1@~|~@maintenance of 50.000km@~|~@2289.07
+325,574,3,Fox@~|~@1@~|~@maintenance of 50.000km@~|~@2028.02
+326,342,3,Fiesta@~|~@3@~|~@maintenance of 150.000km@~|~@4311.33
+327,686,3,5008@~|~@2@~|~@maintenance of 100.000km@~|~@3424.40
+328,686,3,Onix@~|~@2@~|~@maintenance of 100.000km@~|~@2769.89
+329,969,3,Versa@~|~@3@~|~@maintenance of 150.000km@~|~@3892.91
+330,956,3,Gol@~|~@1@~|~@maintenance of 50.000km@~|~@2037.22
+331,342,3,Fox@~|~@2@~|~@maintenance of 100.000km@~|~@2834.36
+332,513,3,T-Cross@~|~@2@~|~@maintenance of 100.000km@~|~@3451.32
+333,48,3,Sportage@~|~@1@~|~@maintenance of 50.000km@~|~@2161.06
+334,321,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@3729.96
+335,67,3,Logan@~|~@3@~|~@maintenance of 150.000km@~|~@3766.89
+336,974,3,T-Cross@~|~@1@~|~@maintenance of 50.000km@~|~@2292.12
+337,134,3,A1@~|~@3@~|~@maintenance of 150.000km@~|~@4316.05
+338,868,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4387.71
+339,460,3,2008@~|~@2@~|~@maintenance of 100.000km@~|~@2722.04
+340,907,3,Creta@~|~@2@~|~@maintenance of 100.000km@~|~@3437.03
+341,604,3,Kicks@~|~@1@~|~@maintenance of 50.000km@~|~@2258.96
+342,240,3,Corolla@~|~@1@~|~@maintenance of 50.000km@~|~@1937.88
+343,19,3,Fox@~|~@1@~|~@maintenance of 50.000km@~|~@2144.42
+344,213,3,Ranger@~|~@2@~|~@maintenance of 100.000km@~|~@2533.50
+345,449,3,208@~|~@1@~|~@maintenance of 50.000km@~|~@1850.13
+346,434,3,Elantra@~|~@2@~|~@maintenance of 100.000km@~|~@3277.80
+347,48,3,Kwid@~|~@3@~|~@maintenance of 150.000km@~|~@4537.76
+348,380,3,Fit@~|~@2@~|~@maintenance of 100.000km@~|~@2609.69
+349,434,3,Sportage@~|~@3@~|~@maintenance of 150.000km@~|~@4697.98
+350,26,3,CR-V@~|~@1@~|~@maintenance of 50.000km@~|~@2462.75
+351,604,3,Logan@~|~@3@~|~@maintenance of 150.000km@~|~@4465.15
+352,344,3,HB20@~|~@2@~|~@maintenance of 100.000km@~|~@3371.56
+353,921,3,TrailBlazer@~|~@1@~|~@maintenance of 50.000km@~|~@2451.45
+354,434,3,5008@~|~@1@~|~@maintenance of 50.000km@~|~@2295.12
+355,765,3,CR-V@~|~@3@~|~@maintenance of 150.000km@~|~@4113.65
+356,423,3,Onix@~|~@3@~|~@maintenance of 150.000km@~|~@4126.50
+357,190,3,T-Cross@~|~@1@~|~@maintenance of 50.000km@~|~@2236.69
+358,716,3,CR-V@~|~@1@~|~@maintenance of 50.000km@~|~@1665.00
+359,342,3,Yaris@~|~@3@~|~@maintenance of 150.000km@~|~@4945.02
+360,240,3,Focus@~|~@2@~|~@maintenance of 100.000km@~|~@3055.13
+361,213,3,Onix@~|~@2@~|~@maintenance of 100.000km@~|~@2741.04
+362,48,3,CR-V@~|~@2@~|~@maintenance of 100.000km@~|~@3210.15
+363,19,3,Etios@~|~@3@~|~@maintenance of 150.000km@~|~@4348.14
+364,133,3,I30@~|~@2@~|~@maintenance of 100.000km@~|~@2800.75
+365,631,3,Renegade@~|~@2@~|~@maintenance of 100.000km@~|~@2716.12
+366,543,3,Sentra@~|~@2@~|~@maintenance of 100.000km@~|~@3421.41
+367,720,3,Creta@~|~@1@~|~@maintenance of 50.000km@~|~@1678.47
+368,686,3,Kicks@~|~@2@~|~@maintenance of 100.000km@~|~@3084.37
+369,630,3,5008@~|~@1@~|~@maintenance of 50.000km@~|~@2109.61
+370,845,3,Fox@~|~@2@~|~@maintenance of 100.000km@~|~@2596.63
+1,237,1,Ford@~|~@KA@~|~@2017@~|~@silver@~|~@used@~|~@32499.35
+2,410,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@49999
+3,652,1,Audi@~|~@Q3@~|~@2019@~|~@silver@~|~@semi-new@~|~@127500
+4,509,1,Nissan@~|~@Frontier@~|~@2017@~|~@green@~|~@used@~|~@87750
+5,730,1,Chevrolet@~|~@Onix@~|~@2018@~|~@white@~|~@semi-new@~|~@55245.75
+6,315,1,Toyota@~|~@Hilux@~|~@2019@~|~@black@~|~@semi-new@~|~@157248.3
+7,796,1,Renault@~|~@Kwid@~|~@2015@~|~@white@~|~@used@~|~@29250.65
+8,710,1,Honda@~|~@City@~|~@2020@~|~@black@~|~@new@~|~@80001
+9,459,1,Peugeot@~|~@208@~|~@2018@~|~@black@~|~@semi-new@~|~@55248.3
+10,488,1,Kia@~|~@Soul@~|~@2020@~|~@red@~|~@new@~|~@84997
+11,556,1,Ford@~|~@Edge@~|~@2018@~|~@black@~|~@semi-new@~|~@101999.15
+12,571,1,Hyundai@~|~@I30@~|~@2016@~|~@silver@~|~@used@~|~@55248.05
+13,912,1,Toyota@~|~@RAV4@~|~@2016@~|~@black@~|~@used@~|~@113750.65
+14,186,1,Kia@~|~@Ceratto@~|~@2019@~|~@silver@~|~@semi-new@~|~@80751.7
+15,652,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76501.7
+16,220,1,Volkswagen@~|~@T-Cross@~|~@2019@~|~@silver@~|~@semi-new@~|~@93499.15
+17,172,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114750.85
+18,968,1,Audi@~|~@Q3@~|~@2016@~|~@white@~|~@used@~|~@97498.05
+19,278,1,Ford@~|~@Ranger@~|~@2019@~|~@white@~|~@semi-new@~|~@114750
+20,555,1,Chevrolet@~|~@Onix@~|~@2019@~|~@black@~|~@semi-new@~|~@55250
+21,400,1,Toyota@~|~@Yaris@~|~@2019@~|~@green@~|~@semi-new@~|~@63753.4
+22,284,1,Volkswagen@~|~@Jetta@~|~@2018@~|~@black@~|~@semi-new@~|~@93499.15
+23,979,1,Kia@~|~@Ceratto@~|~@2016@~|~@blue@~|~@used@~|~@61749.35
+24,782,1,Hyundai@~|~@I30@~|~@2017@~|~@green@~|~@used@~|~@55250.65
+25,515,1,Peugeot@~|~@3008@~|~@2016@~|~@green@~|~@used@~|~@61749.35
+26,309,1,Ford@~|~@KA@~|~@2020@~|~@black@~|~@new@~|~@50002
+27,968,1,Hyundai@~|~@Creta@~|~@2018@~|~@silver@~|~@semi-new@~|~@89249.15
+28,909,1,Hyundai@~|~@Sonata@~|~@2018@~|~@white@~|~@semi-new@~|~@110497.45
+29,579,1,Audi@~|~@Q3@~|~@2018@~|~@silver@~|~@semi-new@~|~@127500
+30,591,1,Peugeot@~|~@308@~|~@2018@~|~@green@~|~@semi-new@~|~@63750.85
+31,488,1,Volkswagen@~|~@Polo@~|~@2017@~|~@silver@~|~@used@~|~@45501.3
+32,954,1,Kia@~|~@Rio@~|~@2019@~|~@silver@~|~@semi-new@~|~@67999.15
+33,94,1,Volkswagen@~|~@T-Cross@~|~@2020@~|~@black@~|~@new@~|~@109999
+34,710,1,Toyota@~|~@Corolla@~|~@2015@~|~@red@~|~@used@~|~@81251.3
+35,4,1,Volkswagen@~|~@Fox@~|~@2020@~|~@red@~|~@new@~|~@54999
+36,721,1,Kia@~|~@Ceratto@~|~@2019@~|~@black@~|~@semi-new@~|~@80752.55
+37,736,1,Audi@~|~@A1@~|~@2020@~|~@blue@~|~@new@~|~@90003
+38,709,1,Honda@~|~@Fit@~|~@2016@~|~@silver@~|~@used@~|~@39000.65
+39,503,1,Ford@~|~@Fiesta@~|~@2020@~|~@green@~|~@new@~|~@60004
+40,320,1,Volkswagen@~|~@Polo@~|~@2015@~|~@red@~|~@used@~|~@45498.7
+41,353,1,Renault@~|~@Duster@~|~@2015@~|~@blue@~|~@used@~|~@55250.65
+42,782,1,Ford@~|~@Fiesta@~|~@2019@~|~@white@~|~@semi-new@~|~@50999.15
+43,104,1,Volkswagen@~|~@Gol@~|~@2019@~|~@black@~|~@semi-new@~|~@38247.45
+44,964,1,Hyundai@~|~@Creta@~|~@2016@~|~@green@~|~@used@~|~@68251.95
+45,341,1,Ford@~|~@Fiesta@~|~@2019@~|~@silver@~|~@semi-new@~|~@50998.3
+46,292,1,Chevrolet@~|~@Cobalt@~|~@2015@~|~@green@~|~@used@~|~@45498.05
+47,866,1,Renault@~|~@Logan@~|~@2020@~|~@black@~|~@new@~|~@70000
+48,20,1,Peugeot@~|~@3008@~|~@2016@~|~@white@~|~@used@~|~@61750.65
+49,782,1,Nissan@~|~@Versa@~|~@2018@~|~@black@~|~@semi-new@~|~@51002.55
+50,771,1,Audi@~|~@A3@~|~@2017@~|~@white@~|~@used@~|~@81248.05
+51,810,1,Peugeot@~|~@2008@~|~@2018@~|~@blue@~|~@semi-new@~|~@63750
+52,200,1,Chevrolet@~|~@Onix@~|~@2017@~|~@red@~|~@used@~|~@42249.35
+53,964,1,Honda@~|~@H-RV@~|~@2017@~|~@silver@~|~@used@~|~@68248.7
+54,335,1,Audi@~|~@A3@~|~@2017@~|~@black@~|~@used@~|~@81247.4
+55,468,1,Renault@~|~@Sandero@~|~@2018@~|~@green@~|~@semi-new@~|~@55249.15
+56,727,1,Volkswagen@~|~@Polo@~|~@2019@~|~@blue@~|~@semi-new@~|~@59502.55
+57,305,1,Audi@~|~@A3@~|~@2016@~|~@black@~|~@used@~|~@81250.65
+58,282,1,Toyota@~|~@Etios@~|~@2016@~|~@black@~|~@used@~|~@35748.7
+59,441,1,Honda@~|~@City@~|~@2015@~|~@silver@~|~@used@~|~@51999.35
+60,748,1,Volkswagen@~|~@Virtus@~|~@2019@~|~@blue@~|~@semi-new@~|~@68001.7
+61,566,1,Toyota@~|~@Yaris@~|~@2015@~|~@white@~|~@used@~|~@48748.05
+62,863,1,Honda@~|~@CR-V@~|~@2020@~|~@blue@~|~@new@~|~@135000
+63,365,1,Audi@~|~@A1@~|~@2019@~|~@white@~|~@semi-new@~|~@76500
+64,428,1,Kia@~|~@Ceratto@~|~@2020@~|~@silver@~|~@new@~|~@95000
+65,949,1,Peugeot@~|~@5008@~|~@2018@~|~@red@~|~@semi-new@~|~@106249.15
+66,646,1,Honda@~|~@H-RV@~|~@2019@~|~@red@~|~@semi-new@~|~@89249.15
+67,964,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29249.35
+68,468,1,Honda@~|~@CR-V@~|~@2019@~|~@white@~|~@semi-new@~|~@114748.3
+69,887,1,Audi@~|~@A1@~|~@2018@~|~@black@~|~@semi-new@~|~@76502.55
+70,887,1,Nissan@~|~@Versa@~|~@2020@~|~@silver@~|~@new@~|~@60003
+71,246,1,Nissan@~|~@March@~|~@2018@~|~@white@~|~@semi-new@~|~@38250.85
+72,557,1,Honda@~|~@New Civic@~|~@2016@~|~@green@~|~@used@~|~@78000.65
+73,909,1,Honda@~|~@City@~|~@2019@~|~@red@~|~@semi-new@~|~@68001.7
+74,591,1,Peugeot@~|~@2008@~|~@2019@~|~@silver@~|~@semi-new@~|~@63750
+75,887,1,Hyundai@~|~@HB20@~|~@2015@~|~@red@~|~@used@~|~@39000
+76,393,1,Renault@~|~@Fluence@~|~@2016@~|~@red@~|~@used@~|~@58499.35
+77,997,1,Renault@~|~@Sandero@~|~@2016@~|~@blue@~|~@used@~|~@42250.65
+78,820,1,Chevrolet@~|~@Cobalt@~|~@2016@~|~@blue@~|~@used@~|~@45497.4
+79,582,1,Audi@~|~@A1@~|~@2018@~|~@red@~|~@semi-new@~|~@76500.85
+80,887,1,Nissan@~|~@Kicks@~|~@2019@~|~@silver@~|~@semi-new@~|~@76500
+81,755,1,Hyundai@~|~@Sonata@~|~@2020@~|~@blue@~|~@new@~|~@129999
+82,500,1,Honda@~|~@H-RV@~|~@2016@~|~@black@~|~@used@~|~@68250.65
+83,350,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@green@~|~@used@~|~@71498.05
+84,810,1,Toyota@~|~@Hilux@~|~@2017@~|~@blue@~|~@used@~|~@120249.35
+85,201,1,Peugeot@~|~@2008@~|~@2016@~|~@green@~|~@used@~|~@48750
+86,973,1,Peugeot@~|~@3008@~|~@2015@~|~@white@~|~@used@~|~@61749.35
+87,697,1,Renault@~|~@Sandero@~|~@2019@~|~@silver@~|~@semi-new@~|~@55250.85
+88,555,1,Hyundai@~|~@IX35@~|~@2017@~|~@blue@~|~@used@~|~@61748.7
+89,172,1,Chevrolet@~|~@TrailBlazer@~|~@2015@~|~@green@~|~@used@~|~@110498.7
+90,582,1,Volkswagen@~|~@Gol@~|~@2017@~|~@red@~|~@used@~|~@29249.35
+91,582,1,Chevrolet@~|~@Equinox@~|~@2016@~|~@blue@~|~@used@~|~@87750
+92,220,1,Honda@~|~@New Civic@~|~@2015@~|~@silver@~|~@used@~|~@78001.3
+93,526,1,Renault@~|~@Duster@~|~@2015@~|~@red@~|~@used@~|~@55249.35
+94,724,1,Volkswagen@~|~@T-Cross@~|~@2016@~|~@red@~|~@used@~|~@71500.65
+95,10,1,Jeep@~|~@Renegade@~|~@2016@~|~@white@~|~@used@~|~@55251.3
+96,971,1,Toyota@~|~@Hilux@~|~@2018@~|~@red@~|~@semi-new@~|~@157252.55
+97,706,1,Honda@~|~@New Civic@~|~@2016@~|~@white@~|~@used@~|~@77999.35
+98,172,1,Ford@~|~@KA@~|~@2018@~|~@red@~|~@semi-new@~|~@42502.55
+99,318,1,Renault@~|~@Logan@~|~@2019@~|~@blue@~|~@semi-new@~|~@59498.3
+100,603,1,Peugeot@~|~@3008@~|~@2015@~|~@blue@~|~@used@~|~@61751.95
+101,721,1,Nissan@~|~@Kicks@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+102,815,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+103,628,1,Peugeot@~|~@308@~|~@2017@~|~@red@~|~@used@~|~@48749.35
+104,88,1,Nissan@~|~@Sentra@~|~@2017@~|~@black@~|~@used@~|~@61747.4
+105,664,1,Volkswagen@~|~@Fox@~|~@2015@~|~@white@~|~@used@~|~@35750.65
+106,429,1,Nissan@~|~@Sentra@~|~@2020@~|~@green@~|~@new@~|~@94996
+107,446,1,Chevrolet@~|~@Tracker@~|~@2020@~|~@black@~|~@new@~|~@109996
+108,59,1,Peugeot@~|~@2008@~|~@2017@~|~@red@~|~@used@~|~@48748.05
+109,419,1,Audi@~|~@A4@~|~@2020@~|~@green@~|~@new@~|~@159996
+110,747,1,Volkswagen@~|~@Golf@~|~@2018@~|~@white@~|~@semi-new@~|~@97749.15
+111,441,1,Volkswagen@~|~@Polo@~|~@2017@~|~@red@~|~@used@~|~@45499.35
+112,704,1,Ford@~|~@KA@~|~@2016@~|~@black@~|~@used@~|~@32501.95
+113,922,1,Chevrolet@~|~@S-10@~|~@2015@~|~@white@~|~@used@~|~@97499.35
+114,429,1,Volkswagen@~|~@Passat@~|~@2020@~|~@silver@~|~@new@~|~@135002
+115,932,1,Nissan@~|~@Sentra@~|~@2020@~|~@black@~|~@new@~|~@94998
+116,371,1,Honda@~|~@CR-V@~|~@2019@~|~@silver@~|~@semi-new@~|~@114752.55
+117,315,1,Renault@~|~@Duster@~|~@2019@~|~@white@~|~@semi-new@~|~@72252.55
+118,556,1,Chevrolet@~|~@Spin@~|~@2018@~|~@white@~|~@semi-new@~|~@76500
+119,784,1,Volkswagen@~|~@Gol@~|~@2017@~|~@black@~|~@used@~|~@29251.3
+120,104,1,Chevrolet@~|~@Onix@~|~@2015@~|~@white@~|~@used@~|~@42248.7
+371,506,4,Sandero@~|~@19@~|~@oil change@~|~@795.27
+372,454,4,T-Cross@~|~@14@~|~@hoops@~|~@748.15
+373,861,4,Renegade@~|~@13@~|~@airfoils@~|~@402.03
+374,650,4,S-10@~|~@8@~|~@lamp@~|~@260.61
+375,283,4,KA@~|~@17@~|~@lubricant@~|~@692.7
+376,265,4,Fit@~|~@18@~|~@filter@~|~@705.02
+377,599,4,Yaris@~|~@7@~|~@flashlight@~|~@597.68
+378,383,4,Versa@~|~@17@~|~@lubricant@~|~@333.61
+379,563,4,A1@~|~@17@~|~@lubricant@~|~@379.59
+380,808,4,Versa@~|~@5@~|~@multimedia kit@~|~@296.17
+381,642,4,TrailBlazer@~|~@18@~|~@filter@~|~@617.93
+382,275,4,Onix@~|~@1@~|~@lighthouse@~|~@772.38
+383,567,4,A3@~|~@4@~|~@shock absorbers@~|~@866.78
+384,480,4,Golf@~|~@19@~|~@oil change@~|~@270.98
+385,994,4,Sandero@~|~@5@~|~@multimedia kit@~|~@517.78
+386,840,4,I30@~|~@4@~|~@shock absorbers@~|~@776.75
+387,139,4,Jetta@~|~@7@~|~@flashlight@~|~@506.45
+388,209,4,Gol@~|~@5@~|~@multimedia kit@~|~@543.53
+389,590,4,HB20@~|~@13@~|~@airfoils@~|~@340.7
+390,708,4,Elantra@~|~@8@~|~@lamp@~|~@250.58
+391,496,4,Sandero@~|~@19@~|~@oil change@~|~@652.17
+392,844,4,Creta@~|~@15@~|~@flavoring@~|~@893.74
+393,869,4,Onix@~|~@9@~|~@suspension@~|~@888.29
+394,993,4,Equinox@~|~@5@~|~@multimedia kit@~|~@497.29
+395,454,4,Compass@~|~@7@~|~@flashlight@~|~@314.87
+396,636,4,Versa@~|~@3@~|~@tires@~|~@660.22
+397,695,4,T-Cross@~|~@2@~|~@hood@~|~@383.89
+398,590,4,Gol@~|~@8@~|~@lamp@~|~@634.24
+399,752,4,Fluence@~|~@8@~|~@lamp@~|~@548.84
+400,247,4,Gol@~|~@3@~|~@tires@~|~@726.61
+401,120,4,IX35@~|~@3@~|~@tires@~|~@499.86
+402,728,4,Fiesta@~|~@17@~|~@lubricant@~|~@608.79
+403,886,4,KA@~|~@17@~|~@lubricant@~|~@567.01
+404,34,4,Yaris@~|~@9@~|~@suspension@~|~@874.78
+405,856,4,Virtus@~|~@9@~|~@suspension@~|~@379.81
+406,865,4,Kicks@~|~@5@~|~@multimedia kit@~|~@324.16
+407,322,4,5008@~|~@16@~|~@oil@~|~@376.8
+408,996,4,T-Cross@~|~@17@~|~@lubricant@~|~@797.36
+409,585,4,Corolla@~|~@12@~|~@brake pad@~|~@241.74
+410,938,4,Kwid@~|~@6@~|~@antenna@~|~@605.13
+411,904,4,308@~|~@11@~|~@painting wheels@~|~@657.81
+412,925,4,Fit@~|~@19@~|~@oil change@~|~@255.65
+413,902,4,T-Cross@~|~@18@~|~@filter@~|~@535.81
+414,602,4,Corolla@~|~@11@~|~@painting wheels@~|~@343.77
+415,98,4,Logan@~|~@12@~|~@brake pad@~|~@754.66
+416,935,4,Creta@~|~@9@~|~@suspension@~|~@563.1
+417,632,4,Onix@~|~@17@~|~@lubricant@~|~@221.81
+418,299,4,Duster@~|~@11@~|~@painting wheels@~|~@290.32
+419,879,4,March@~|~@7@~|~@flashlight@~|~@313.57
+420,745,4,TrailBlazer@~|~@16@~|~@oil@~|~@239.02
+421,679,4,Polo@~|~@14@~|~@hoops@~|~@692.91
+422,6,4,208@~|~@7@~|~@flashlight@~|~@796.94
+423,521,4,Cobalt@~|~@7@~|~@flashlight@~|~@476.58
+424,424,4,Fit@~|~@8@~|~@lamp@~|~@845.62
+425,872,4,Cobalt@~|~@8@~|~@lamp@~|~@814.84
+426,540,4,KA@~|~@6@~|~@antenna@~|~@479.38
+427,266,4,T-Cross@~|~@8@~|~@lamp@~|~@411.41
+428,222,4,Duster@~|~@10@~|~@enveloping@~|~@489.61
+429,657,4,Jetta@~|~@10@~|~@enveloping@~|~@363.05
+430,115,4,Creta@~|~@7@~|~@flashlight@~|~@338.81
+431,499,4,Kicks@~|~@9@~|~@suspension@~|~@535.25
+432,157,4,KA@~|~@12@~|~@brake pad@~|~@429.4
+433,349,4,HB20@~|~@13@~|~@airfoils@~|~@722.23
+434,421,4,IX35@~|~@17@~|~@lubricant@~|~@710.3
+435,457,4,Sentra@~|~@5@~|~@multimedia kit@~|~@275.38
+436,996,4,Renegade@~|~@8@~|~@lamp@~|~@833.8
+437,843,4,Tucson@~|~@5@~|~@multimedia kit@~|~@359.64
+438,878,4,Gol@~|~@11@~|~@painting wheels@~|~@643.68
+439,897,4,Duster@~|~@7@~|~@flashlight@~|~@553.03
+440,205,4,KA@~|~@6@~|~@antenna@~|~@522.62
+441,920,4,T-Cross@~|~@15@~|~@flavoring@~|~@237.98
+442,611,4,S-10@~|~@4@~|~@shock absorbers@~|~@664.62
+443,567,4,Focus@~|~@16@~|~@oil@~|~@460.95
+444,42,4,Fiesta@~|~@16@~|~@oil@~|~@783.25
+445,86,4,RAV4@~|~@10@~|~@enveloping@~|~@729.21
+446,627,4,Golf@~|~@18@~|~@filter@~|~@798.92
+447,905,4,Kicks@~|~@4@~|~@shock absorbers@~|~@452.72
+448,132,4,Fiesta@~|~@9@~|~@suspension@~|~@772.46
+449,72,4,Q3@~|~@10@~|~@enveloping@~|~@577.44
+450,258,4,Sportage@~|~@17@~|~@lubricant@~|~@744.02
+451,485,4,Sportage@~|~@6@~|~@antenna@~|~@849.71
+452,283,4,KA@~|~@1@~|~@lighthouse@~|~@329.42
+453,168,4,Edge@~|~@13@~|~@airfoils@~|~@548.83
+454,73,4,Onix@~|~@10@~|~@enveloping@~|~@441.11
+455,772,4,HB20@~|~@18@~|~@filter@~|~@399.42
+456,752,4,Soul@~|~@16@~|~@oil@~|~@490.95
+457,634,4,IX35@~|~@16@~|~@oil@~|~@577.28
+458,843,4,New Civic@~|~@13@~|~@airfoils@~|~@493.36
+459,655,4,Fluence@~|~@15@~|~@flavoring@~|~@571.0
+460,717,4,Sandero@~|~@14@~|~@hoops@~|~@739.95
+461,783,4,Versa@~|~@7@~|~@flashlight@~|~@200.49
+462,738,4,Gol@~|~@16@~|~@oil@~|~@235.77
+463,760,4,Elantra@~|~@7@~|~@flashlight@~|~@477.09
+464,691,4,Fiesta@~|~@17@~|~@lubricant@~|~@468.96
+465,938,4,Sandero@~|~@3@~|~@tires@~|~@382.58
+466,872,4,Soul@~|~@11@~|~@painting wheels@~|~@848.47
+467,370,4,Duster@~|~@15@~|~@flavoring@~|~@807.6
+468,445,4,Sentra@~|~@15@~|~@flavoring@~|~@292.52
+469,273,4,Ranger@~|~@9@~|~@suspension@~|~@729.34
+470,275,4,Ceratto@~|~@11@~|~@painting wheels@~|~@347.1
+471,261,4,Polo@~|~@12@~|~@brake pad@~|~@233.56
+472,474,4,Creta@~|~@3@~|~@tires@~|~@243.78
+473,871,4,Kicks@~|~@12@~|~@brake pad@~|~@386.9
+474,958,4,Logan@~|~@3@~|~@tires@~|~@235.56
+475,626,4,308@~|~@17@~|~@lubricant@~|~@211.49
+476,570,4,Sportage@~|~@17@~|~@lubricant@~|~@587.83
+477,96,4,Sentra@~|~@7@~|~@flashlight@~|~@522.65
+478,758,4,HB20@~|~@16@~|~@oil@~|~@221.56
+479,762,4,TrailBlazer@~|~@2@~|~@hood@~|~@830.37
+480,362,4,Rio@~|~@18@~|~@filter@~|~@534.76
+481,156,4,A1@~|~@16@~|~@oil@~|~@748.09
+482,46,4,Soul@~|~@4@~|~@shock absorbers@~|~@478.51
+483,946,4,Logan@~|~@12@~|~@brake pad@~|~@294.11
+484,847,4,City@~|~@6@~|~@antenna@~|~@600.57
+485,894,4,Kwid@~|~@4@~|~@shock absorbers@~|~@331.74
+486,357,4,Jetta@~|~@5@~|~@multimedia kit@~|~@742.56
+487,151,4,HB20@~|~@9@~|~@suspension@~|~@649.5
+488,480,4,Hilux@~|~@12@~|~@brake pad@~|~@867.83
+489,615,4,HB20@~|~@2@~|~@hood@~|~@397.46
+490,831,4,Jetta@~|~@19@~|~@oil change@~|~@469.59
+491,837,4,RAV4@~|~@12@~|~@brake pad@~|~@260.87
+492,11,4,City@~|~@6@~|~@antenna@~|~@715.46
+493,527,4,Duster@~|~@13@~|~@airfoils@~|~@518.34
+494,218,4,Kwid@~|~@16@~|~@oil@~|~@767.62
+495,701,4,Jetta@~|~@7@~|~@flashlight@~|~@856.75
+496,17,4,Soul@~|~@3@~|~@tires@~|~@842.61
+497,879,4,Versa@~|~@5@~|~@multimedia kit@~|~@266.81
+498,149,4,H-RV@~|~@18@~|~@filter@~|~@263.55
+499,379,4,Jetta@~|~@13@~|~@airfoils@~|~@594.61
+500,358,4,Passat@~|~@12@~|~@brake pad@~|~@632.1
+501,145,4,New Civic@~|~@3@~|~@tires@~|~@600.99
+502,593,4,Virtus@~|~@3@~|~@tires@~|~@320.61
+503,521,4,Kicks@~|~@13@~|~@airfoils@~|~@336.19
+504,113,4,Jetta@~|~@2@~|~@hood@~|~@840.11
+505,173,4,Golf@~|~@1@~|~@lighthouse@~|~@350.93
+506,156,4,208@~|~@18@~|~@filter@~|~@498.74
+507,24,4,Sentra@~|~@18@~|~@filter@~|~@782.75
+508,585,4,Kicks@~|~@19@~|~@oil change@~|~@729.74
+509,463,4,Jetta@~|~@7@~|~@flashlight@~|~@877.34
+510,940,4,Polo@~|~@7@~|~@flashlight@~|~@633.57
+511,961,4,Renegade@~|~@3@~|~@tires@~|~@546.97
+512,636,4,Sportage@~|~@13@~|~@airfoils@~|~@671.2
+513,569,4,W-RV@~|~@18@~|~@filter@~|~@323.93
+514,620,4,Jetta@~|~@6@~|~@antenna@~|~@290.39
+515,236,4,Sandero@~|~@4@~|~@shock absorbers@~|~@210.26
+516,683,4,City@~|~@19@~|~@oil change@~|~@820.86
+517,743,4,A4@~|~@3@~|~@tires@~|~@687.48
+518,392,4,RAV4@~|~@17@~|~@lubricant@~|~@267.61
+519,920,4,Ranger@~|~@15@~|~@flavoring@~|~@500.43
+520,708,4,Sentra@~|~@18@~|~@filter@~|~@379.43
+521,387,4,Fox@~|~@10@~|~@enveloping@~|~@864.5
+522,694,4,HB20@~|~@12@~|~@brake pad@~|~@487.33
+523,723,4,Edge@~|~@6@~|~@antenna@~|~@703.74
+524,150,4,Sportage@~|~@15@~|~@flavoring@~|~@208.27
+525,1000,4,Compass@~|~@6@~|~@antenna@~|~@669.64
+526,279,4,Fiesta@~|~@12@~|~@brake pad@~|~@207.96
+527,9,4,Soul@~|~@3@~|~@tires@~|~@391.33
+528,108,4,Versa@~|~@14@~|~@hoops@~|~@534.87
+529,187,4,A3@~|~@5@~|~@multimedia kit@~|~@379.78
+530,47,4,CR-V@~|~@9@~|~@suspension@~|~@468.05
+531,140,4,Tucson@~|~@14@~|~@hoops@~|~@286.93
+532,937,4,March@~|~@17@~|~@lubricant@~|~@424.85
+533,636,4,HB20@~|~@6@~|~@antenna@~|~@632.6
+534,884,4,Q3@~|~@18@~|~@filter@~|~@652.14
+535,637,4,Kwid@~|~@11@~|~@painting wheels@~|~@729.54
+536,332,4,Ranger@~|~@1@~|~@lighthouse@~|~@516.61
+537,36,4,Q3@~|~@5@~|~@multimedia kit@~|~@458.8
+538,685,4,Jetta@~|~@12@~|~@brake pad@~|~@640.61
+539,675,4,Golf@~|~@8@~|~@lamp@~|~@499.01
+540,649,4,Etios@~|~@18@~|~@filter@~|~@540.61
+541,695,4,March@~|~@9@~|~@suspension@~|~@798.02
+542,731,4,Renegade@~|~@8@~|~@lamp@~|~@224.61
+543,690,4,Hilux@~|~@13@~|~@airfoils@~|~@216.54
+544,290,4,W-RV@~|~@4@~|~@shock absorbers@~|~@892.62
+545,57,4,Azera@~|~@5@~|~@multimedia kit@~|~@404.24
+546,279,4,I30@~|~@13@~|~@airfoils@~|~@671.68
+547,268,4,Sportage@~|~@6@~|~@antenna@~|~@313.9
+548,290,4,Yaris@~|~@15@~|~@flavoring@~|~@261.84
+549,955,4,Elantra@~|~@6@~|~@antenna@~|~@859.96
+550,657,4,I30@~|~@12@~|~@brake pad@~|~@432.67
+551,9,4,HB20@~|~@1@~|~@lighthouse@~|~@380.18
+552,296,4,Fiesta@~|~@5@~|~@multimedia kit@~|~@391.67
+553,417,4,Corolla@~|~@8@~|~@lamp@~|~@867.68
+554,821,4,Equinox@~|~@12@~|~@brake pad@~|~@702.12
+555,570,4,IX35@~|~@14@~|~@hoops@~|~@258.62
+556,173,4,CR-V@~|~@15@~|~@flavoring@~|~@661.93
+557,106,4,Hilux@~|~@18@~|~@filter@~|~@553.45
+558,271,4,Etios@~|~@5@~|~@multimedia kit@~|~@497.06
+559,145,4,Fiesta@~|~@17@~|~@lubricant@~|~@438.72
+560,659,4,City@~|~@19@~|~@oil change@~|~@412.09
+561,584,4,Onix@~|~@1@~|~@lighthouse@~|~@898.64
+562,411,4,Yaris@~|~@6@~|~@antenna@~|~@757.78
+563,988,4,W-RV@~|~@3@~|~@tires@~|~@551.1
+564,757,4,308@~|~@15@~|~@flavoring@~|~@744.21
+565,493,4,Fiesta@~|~@13@~|~@airfoils@~|~@791.26
+566,759,4,Renegade@~|~@6@~|~@antenna@~|~@598.0
+567,236,4,HB20@~|~@7@~|~@flashlight@~|~@405.28
+568,879,4,Kicks@~|~@2@~|~@hood@~|~@846.69
+569,155,4,Duster@~|~@14@~|~@hoops@~|~@431.26
+570,301,4,Hilux@~|~@6@~|~@antenna@~|~@790.3
+571,72,4,HB20@~|~@9@~|~@suspension@~|~@798.11
+572,525,4,Rio@~|~@12@~|~@brake pad@~|~@803.01
+573,126,4,HB20@~|~@16@~|~@oil@~|~@349.68
+574,494,4,Ceratto@~|~@4@~|~@shock absorbers@~|~@246.16
+575,735,4,HB20@~|~@15@~|~@flavoring@~|~@393.91
+576,277,4,3008@~|~@5@~|~@multimedia kit@~|~@891.4
+577,24,4,Gol@~|~@2@~|~@hood@~|~@342.79
+578,426,4,Fiesta@~|~@13@~|~@airfoils@~|~@302.99
+579,106,4,Spin@~|~@10@~|~@enveloping@~|~@676.09
+580,38,4,Renegade@~|~@4@~|~@shock absorbers@~|~@500.22
+581,331,4,Fox@~|~@9@~|~@suspension@~|~@482.01
+582,34,4,Kicks@~|~@1@~|~@lighthouse@~|~@886.49
+583,114,4,Etios@~|~@11@~|~@painting wheels@~|~@461.18
+584,114,4,Onix@~|~@17@~|~@lubricant@~|~@556.27
+585,819,4,Onix@~|~@13@~|~@airfoils@~|~@371.59
+586,378,4,Corolla@~|~@9@~|~@suspension@~|~@667.14
+587,937,4,Sandero@~|~@12@~|~@brake pad@~|~@484.64
+588,770,4,City@~|~@2@~|~@hood@~|~@472.74
+589,1,4,2008@~|~@5@~|~@multimedia kit@~|~@372.29
+590,650,4,HB20@~|~@2@~|~@hood@~|~@813.89
+591,976,4,Azera@~|~@15@~|~@flavoring@~|~@329.18
+592,506,4,Golf@~|~@13@~|~@airfoils@~|~@317.54
+593,61,4,New Civic@~|~@4@~|~@shock absorbers@~|~@785.06
+594,585,4,March@~|~@13@~|~@airfoils@~|~@343.13
+595,894,4,Fox@~|~@16@~|~@oil@~|~@402.87
+596,275,4,Onix@~|~@18@~|~@filter@~|~@520.98
+597,596,4,Spin@~|~@15@~|~@flavoring@~|~@424.29
+598,578,4,308@~|~@16@~|~@oil@~|~@240.13
+599,965,4,Versa@~|~@16@~|~@oil@~|~@644.92
+600,585,4,Fit@~|~@10@~|~@enveloping@~|~@301.85
+601,667,4,Jetta@~|~@19@~|~@oil change@~|~@364.62
+602,627,4,Fiesta@~|~@13@~|~@airfoils@~|~@725.51
+603,283,4,Fit@~|~@10@~|~@enveloping@~|~@343.12
+604,507,4,Kicks@~|~@13@~|~@airfoils@~|~@312.72
+605,511,4,Onix@~|~@9@~|~@suspension@~|~@622.91
+606,477,4,Fiesta@~|~@18@~|~@filter@~|~@211.19
+607,627,4,Etios@~|~@15@~|~@flavoring@~|~@682.22
+608,435,4,Golf@~|~@4@~|~@shock absorbers@~|~@399.75
+609,12,4,3008@~|~@9@~|~@suspension@~|~@284.61
+610,647,4,CR-V@~|~@7@~|~@flashlight@~|~@603.78
+611,89,4,Soul@~|~@4@~|~@shock absorbers@~|~@536.98
+612,155,4,Onix@~|~@6@~|~@antenna@~|~@460.8
+613,64,4,Sandero@~|~@6@~|~@antenna@~|~@269.13
+614,938,4,Versa@~|~@11@~|~@painting wheels@~|~@232.22
+615,572,4,Fox@~|~@4@~|~@shock absorbers@~|~@865.08
+616,986,4,HB20@~|~@8@~|~@lamp@~|~@746.45
+617,992,4,2008@~|~@19@~|~@oil change@~|~@689.52
+618,996,4,T-Cross@~|~@3@~|~@tires@~|~@811.21
+619,647,4,208@~|~@13@~|~@airfoils@~|~@395.62
+620,970,4,Sonata@~|~@6@~|~@antenna@~|~@613.17
+621,681,4,Ceratto@~|~@8@~|~@lamp@~|~@412.34
+622,634,4,Gol@~|~@7@~|~@flashlight@~|~@761.6
+623,643,4,Q3@~|~@3@~|~@tires@~|~@429.81
+624,548,4,Equinox@~|~@10@~|~@enveloping@~|~@694.61
+625,470,4,Creta@~|~@7@~|~@flashlight@~|~@381.99
+626,835,4,Equinox@~|~@10@~|~@enveloping@~|~@323.01
+627,57,4,A1@~|~@15@~|~@flavoring@~|~@431.37
+628,700,4,Frontier@~|~@16@~|~@oil@~|~@896.92
+629,830,4,Sonata@~|~@15@~|~@flavoring@~|~@849.53
+630,317,4,Frontier@~|~@14@~|~@hoops@~|~@271.98
+631,445,4,S-10@~|~@4@~|~@shock absorbers@~|~@457.36
+632,620,4,City@~|~@18@~|~@filter@~|~@231.56
+633,474,4,Hilux@~|~@3@~|~@tires@~|~@673.32
+634,884,4,Gol@~|~@6@~|~@antenna@~|~@763.81
+635,455,4,Kicks@~|~@19@~|~@oil change@~|~@829.74
+636,36,4,Gol@~|~@12@~|~@brake pad@~|~@266.98
+637,852,4,Gol@~|~@19@~|~@oil change@~|~@605.49
+638,962,4,Polo@~|~@10@~|~@enveloping@~|~@454.82
+639,17,4,308@~|~@1@~|~@lighthouse@~|~@785.25
+640,96,4,Kicks@~|~@10@~|~@enveloping@~|~@530.4
+641,906,4,Etios@~|~@8@~|~@lamp@~|~@287.79
+642,752,4,308@~|~@14@~|~@hoops@~|~@753.79
+643,959,4,Sentra@~|~@6@~|~@antenna@~|~@325.46
+644,316,4,Duster@~|~@6@~|~@antenna@~|~@459.77
+645,865,4,Fox@~|~@8@~|~@lamp@~|~@400.26
+646,420,4,New Civic@~|~@4@~|~@shock absorbers@~|~@455.53
+647,506,4,Passat@~|~@18@~|~@filter@~|~@464.17
+648,416,4,Polo@~|~@5@~|~@multimedia kit@~|~@436.28
+649,219,4,308@~|~@18@~|~@filter@~|~@870.57
+650,825,4,5008@~|~@13@~|~@airfoils@~|~@746.47
+651,34,4,TrailBlazer@~|~@6@~|~@antenna@~|~@643.23
+652,728,4,Fiesta@~|~@14@~|~@hoops@~|~@747.19
+653,362,4,Ranger@~|~@16@~|~@oil@~|~@392.35
+654,124,4,Edge@~|~@13@~|~@airfoils@~|~@819.5
+655,259,4,Fox@~|~@18@~|~@filter@~|~@746.89
+656,617,4,Renegade@~|~@4@~|~@shock absorbers@~|~@244.42
+657,328,4,Gol@~|~@14@~|~@hoops@~|~@388.77
+658,265,4,Fluence@~|~@11@~|~@painting wheels@~|~@665.97
+659,699,4,Fiesta@~|~@13@~|~@airfoils@~|~@802.53
+660,696,4,Yaris@~|~@6@~|~@antenna@~|~@528.54
+661,941,4,Gol@~|~@4@~|~@shock absorbers@~|~@243.5
+662,627,4,Kicks@~|~@16@~|~@oil@~|~@597.93
+663,779,4,A3@~|~@16@~|~@oil@~|~@391.38
+664,847,4,HB20@~|~@12@~|~@brake pad@~|~@248.95
+665,199,4,HB20@~|~@14@~|~@hoops@~|~@839.3
+666,295,4,Sentra@~|~@6@~|~@antenna@~|~@819.24
+667,544,4,Equinox@~|~@15@~|~@flavoring@~|~@496.18
+668,399,4,Kwid@~|~@18@~|~@filter@~|~@558.87
+669,881,4,Fiesta@~|~@1@~|~@lighthouse@~|~@319.81
+670,290,4,Q3@~|~@10@~|~@enveloping@~|~@347.57
+671,843,4,5008@~|~@19@~|~@oil change@~|~@302.36
+672,96,4,Soul@~|~@7@~|~@flashlight@~|~@398.91
+673,316,4,W-RV@~|~@19@~|~@oil change@~|~@679.83
+674,794,4,Hilux@~|~@13@~|~@airfoils@~|~@829.1
+675,283,4,3008@~|~@19@~|~@oil change@~|~@644.48
+676,123,4,T-Cross@~|~@14@~|~@hoops@~|~@638.82
+677,461,4,H-RV@~|~@15@~|~@flavoring@~|~@384.17
+678,620,4,KA@~|~@4@~|~@shock absorbers@~|~@451.12
+679,893,4,2008@~|~@2@~|~@hood@~|~@496.47
+680,68,4,2008@~|~@19@~|~@oil change@~|~@648.1
+681,864,4,Rio@~|~@16@~|~@oil@~|~@560.78
+682,290,4,208@~|~@7@~|~@flashlight@~|~@535.15
+683,794,4,Golf@~|~@17@~|~@lubricant@~|~@859.04
+684,740,4,Ranger@~|~@18@~|~@filter@~|~@898.97
+685,764,4,Kwid@~|~@15@~|~@flavoring@~|~@640.52
+686,218,4,Passat@~|~@5@~|~@multimedia kit@~|~@387.86
+687,794,4,Kicks@~|~@16@~|~@oil@~|~@811.06
+688,109,4,Renegade@~|~@11@~|~@painting wheels@~|~@873.08
+689,975,4,Equinox@~|~@19@~|~@oil change@~|~@303.97
+690,772,4,KA@~|~@7@~|~@flashlight@~|~@798.18
+691,196,4,3008@~|~@9@~|~@suspension@~|~@404.42
+692,705,4,Creta@~|~@7@~|~@flashlight@~|~@361.5
+693,444,4,Tracker@~|~@13@~|~@airfoils@~|~@836.02
+694,70,4,3008@~|~@5@~|~@multimedia kit@~|~@680.87
+695,225,4,Sandero@~|~@16@~|~@oil@~|~@557.17
+696,656,4,A1@~|~@9@~|~@suspension@~|~@391.96
+697,7,4,Renegade@~|~@13@~|~@airfoils@~|~@790.08
+698,215,4,KA@~|~@7@~|~@flashlight@~|~@702.26
+699,439,4,Rio@~|~@17@~|~@lubricant@~|~@339.38
+700,627,4,T-Cross@~|~@18@~|~@filter@~|~@547.52
+701,195,4,T-Cross@~|~@6@~|~@antenna@~|~@348.66
+702,787,4,Fluence@~|~@11@~|~@painting wheels@~|~@492.44
+703,862,4,A4@~|~@15@~|~@flavoring@~|~@384.53
+704,331,4,Kwid@~|~@1@~|~@lighthouse@~|~@491.28
+705,672,4,Corolla@~|~@4@~|~@shock absorbers@~|~@701.1
+706,499,4,2008@~|~@10@~|~@enveloping@~|~@666.76
+707,643,4,Kicks@~|~@9@~|~@suspension@~|~@792.83
+708,183,4,TrailBlazer@~|~@10@~|~@enveloping@~|~@639.73
+709,597,4,Frontier@~|~@6@~|~@antenna@~|~@837.32
+710,467,4,Q3@~|~@15@~|~@flavoring@~|~@304.26
+711,691,4,Compass@~|~@6@~|~@antenna@~|~@458.08
+712,984,4,TrailBlazer@~|~@7@~|~@flashlight@~|~@508.31
+713,687,4,308@~|~@19@~|~@oil change@~|~@280.7
+714,977,4,Sandero@~|~@7@~|~@flashlight@~|~@213.79
+715,115,4,HB20@~|~@7@~|~@flashlight@~|~@650.46
+716,854,4,Yaris@~|~@17@~|~@lubricant@~|~@767.14
+717,819,4,I30@~|~@17@~|~@lubricant@~|~@524.15
+718,667,4,KA@~|~@4@~|~@shock absorbers@~|~@588.5
+719,473,4,March@~|~@13@~|~@airfoils@~|~@259.05
+720,56,4,Polo@~|~@8@~|~@lamp@~|~@348.45
+721,36,4,Duster@~|~@15@~|~@flavoring@~|~@544.08
+722,549,4,Sentra@~|~@12@~|~@brake pad@~|~@540.18
+723,42,4,308@~|~@3@~|~@tires@~|~@722.65
+724,541,4,Polo@~|~@11@~|~@painting wheels@~|~@869.26
+725,854,4,Versa@~|~@3@~|~@tires@~|~@856.68
+726,937,4,S-10@~|~@7@~|~@flashlight@~|~@650.44
+727,153,4,HB20@~|~@10@~|~@enveloping@~|~@542.76
+728,99,4,City@~|~@6@~|~@antenna@~|~@898.75
+729,310,4,Hilux@~|~@7@~|~@flashlight@~|~@310.72
+730,680,4,Sandero@~|~@15@~|~@flavoring@~|~@683.76
+731,972,4,Ceratto@~|~@4@~|~@shock absorbers@~|~@818.79
+732,358,4,Kwid@~|~@11@~|~@painting wheels@~|~@435.23
+733,245,4,Gol@~|~@6@~|~@antenna@~|~@732.98
+734,432,4,KA@~|~@2@~|~@hood@~|~@453.58
+735,166,4,Ranger@~|~@13@~|~@airfoils@~|~@741.39
+736,569,4,Kicks@~|~@5@~|~@multimedia kit@~|~@707.8
+737,717,4,Kicks@~|~@17@~|~@lubricant@~|~@609.85
+738,166,4,March@~|~@12@~|~@brake pad@~|~@711.45
+739,40,4,Versa@~|~@17@~|~@lubricant@~|~@456.54
+740,874,4,Gol@~|~@9@~|~@suspension@~|~@358.88
+741,563,4,Renegade@~|~@18@~|~@filter@~|~@614.41
+742,215,4,Versa@~|~@18@~|~@filter@~|~@821.49
+743,549,4,HB20@~|~@1@~|~@lighthouse@~|~@682.62
+744,719,4,Yaris@~|~@17@~|~@lubricant@~|~@543.81
+745,404,4,Golf@~|~@5@~|~@multimedia kit@~|~@375.49
+746,773,4,308@~|~@6@~|~@antenna@~|~@397.53
+747,491,4,Sonata@~|~@15@~|~@flavoring@~|~@676.11
+748,435,4,KA@~|~@8@~|~@lamp@~|~@237.94
+749,841,4,Onix@~|~@19@~|~@oil change@~|~@821.74
+750,877,4,I30@~|~@13@~|~@airfoils@~|~@898.71
+751,487,4,Passat@~|~@16@~|~@oil@~|~@830.06
+752,840,4,CR-V@~|~@19@~|~@oil change@~|~@494.01
+753,795,4,Ceratto@~|~@13@~|~@airfoils@~|~@252.51
+754,328,4,Corolla@~|~@17@~|~@lubricant@~|~@345.11
+755,211,4,Fluence@~|~@10@~|~@enveloping@~|~@679.17
+756,976,4,A3@~|~@4@~|~@shock absorbers@~|~@332.52
+757,836,4,CR-V@~|~@16@~|~@oil@~|~@696.36
+758,117,4,Renegade@~|~@1@~|~@lighthouse@~|~@626.5
+759,602,4,Golf@~|~@12@~|~@brake pad@~|~@772.78
+760,880,4,Onix@~|~@4@~|~@shock absorbers@~|~@825.82
+761,102,4,Onix@~|~@14@~|~@hoops@~|~@886.94
+762,399,4,Kwid@~|~@8@~|~@lamp@~|~@718.22
+763,744,4,Onix@~|~@7@~|~@flashlight@~|~@434.14
+764,5,4,Fox@~|~@8@~|~@lamp@~|~@399.23
+765,955,4,Fox@~|~@16@~|~@oil@~|~@254.83
+766,195,4,Tracker@~|~@7@~|~@flashlight@~|~@535.26
+767,738,4,City@~|~@5@~|~@multimedia kit@~|~@739.96
+768,440,4,Edge@~|~@17@~|~@lubricant@~|~@719.18
+769,542,4,Virtus@~|~@14@~|~@hoops@~|~@205.76
+770,348,4,Fox@~|~@13@~|~@airfoils@~|~@473.75
+771,717,4,Renegade@~|~@9@~|~@suspension@~|~@663.61
+772,749,4,Kwid@~|~@16@~|~@oil@~|~@233.99
+773,457,4,Sandero@~|~@3@~|~@tires@~|~@517.09
+774,322,4,Sentra@~|~@10@~|~@enveloping@~|~@500.99
+775,756,4,Edge@~|~@3@~|~@tires@~|~@897.11
+776,336,4,Soul@~|~@7@~|~@flashlight@~|~@561.27
+777,27,4,Gol@~|~@7@~|~@flashlight@~|~@735.08
+778,328,4,City@~|~@17@~|~@lubricant@~|~@708.8
+779,702,4,Jetta@~|~@8@~|~@lamp@~|~@474.93
+780,934,4,5008@~|~@19@~|~@oil change@~|~@411.82
+781,336,4,HB20@~|~@11@~|~@painting wheels@~|~@795.35
+782,702,4,208@~|~@10@~|~@enveloping@~|~@518.51
+783,440,4,KA@~|~@5@~|~@multimedia kit@~|~@782.31
+784,595,4,HB20@~|~@3@~|~@tires@~|~@559.84
+785,696,4,Ranger@~|~@11@~|~@painting wheels@~|~@724.58
+786,392,4,Polo@~|~@15@~|~@flavoring@~|~@654.47
+787,147,4,Fox@~|~@4@~|~@shock absorbers@~|~@703.12
+788,93,4,208@~|~@3@~|~@tires@~|~@357.84
+789,49,4,HB20@~|~@10@~|~@enveloping@~|~@230.94
+790,311,4,Polo@~|~@17@~|~@lubricant@~|~@547.48
+791,27,4,Sonata@~|~@7@~|~@flashlight@~|~@396.08
+792,764,4,Kicks@~|~@4@~|~@shock absorbers@~|~@646.11
+793,690,4,3008@~|~@18@~|~@filter@~|~@289.16
+794,238,4,HB20@~|~@11@~|~@painting wheels@~|~@685.0
+795,437,4,Etios@~|~@7@~|~@flashlight@~|~@405.64
+796,894,4,Hilux@~|~@15@~|~@flavoring@~|~@666.5
+797,248,4,March@~|~@15@~|~@flavoring@~|~@398.94
+798,325,4,Tracker@~|~@6@~|~@antenna@~|~@597.21
+799,173,4,Virtus@~|~@6@~|~@antenna@~|~@721.76
+800,763,4,Fit@~|~@3@~|~@tires@~|~@240.51
+801,878,4,Kicks@~|~@1@~|~@lighthouse@~|~@313.47
+802,206,4,Kicks@~|~@10@~|~@enveloping@~|~@889.85
+803,245,4,Kwid@~|~@8@~|~@lamp@~|~@643.37
+804,424,4,Polo@~|~@13@~|~@airfoils@~|~@643.58
+805,39,4,Virtus@~|~@10@~|~@enveloping@~|~@543.32
+806,702,4,Sportage@~|~@13@~|~@airfoils@~|~@564.39
+807,681,4,Q3@~|~@17@~|~@lubricant@~|~@332.09
+808,953,4,W-RV@~|~@10@~|~@enveloping@~|~@740.47
+809,170,4,Fiesta@~|~@6@~|~@antenna@~|~@248.12
+810,497,4,Etios@~|~@7@~|~@flashlight@~|~@644.63
+811,61,4,Virtus@~|~@5@~|~@multimedia kit@~|~@663.91
+812,593,4,Creta@~|~@18@~|~@filter@~|~@447.57
+813,824,4,TrailBlazer@~|~@19@~|~@oil change@~|~@862.04
+814,27,4,T-Cross@~|~@2@~|~@hood@~|~@426.51
+815,216,4,March@~|~@13@~|~@airfoils@~|~@201.1
+816,69,4,Focus@~|~@1@~|~@lighthouse@~|~@882.07
+817,667,4,2008@~|~@12@~|~@brake pad@~|~@567.03
+818,614,4,City@~|~@18@~|~@filter@~|~@437.9
+819,271,4,KA@~|~@19@~|~@oil change@~|~@726.63
+820,327,4,208@~|~@8@~|~@lamp@~|~@747.07
+821,589,4,Golf@~|~@8@~|~@lamp@~|~@527.27
+822,128,4,Soul@~|~@18@~|~@filter@~|~@501.74
+823,418,4,Cobalt@~|~@7@~|~@flashlight@~|~@837.38
+824,170,4,Sportage@~|~@15@~|~@flavoring@~|~@576.37
+825,363,4,Sportage@~|~@1@~|~@lighthouse@~|~@639.88
+826,952,4,IX35@~|~@1@~|~@lighthouse@~|~@585.63
+827,279,4,I30@~|~@5@~|~@multimedia kit@~|~@621.11
+828,527,4,Corolla@~|~@18@~|~@filter@~|~@282.82
+829,606,4,Edge@~|~@5@~|~@multimedia kit@~|~@472.22
+830,663,4,New Civic@~|~@10@~|~@enveloping@~|~@824.76
+831,874,4,Onix@~|~@10@~|~@enveloping@~|~@830.28
+832,497,4,CR-V@~|~@16@~|~@oil@~|~@860.43
+833,811,4,Ceratto@~|~@5@~|~@multimedia kit@~|~@730.89
+834,501,4,Kicks@~|~@13@~|~@airfoils@~|~@219.87
+835,992,4,Duster@~|~@11@~|~@painting wheels@~|~@861.92
+836,384,4,KA@~|~@9@~|~@suspension@~|~@391.75
+837,694,4,Duster@~|~@16@~|~@oil@~|~@208.56
+838,918,4,208@~|~@4@~|~@shock absorbers@~|~@380.73
+839,585,4,Onix@~|~@16@~|~@oil@~|~@519.7
+840,139,4,T-Cross@~|~@12@~|~@brake pad@~|~@874.58
+841,17,4,Duster@~|~@18@~|~@filter@~|~@520.08
+842,761,4,Sportage@~|~@3@~|~@tires@~|~@714.25
+843,862,4,Sandero@~|~@10@~|~@enveloping@~|~@844.2
+844,86,4,Ceratto@~|~@8@~|~@lamp@~|~@342.3
+845,256,4,T-Cross@~|~@16@~|~@oil@~|~@297.56
+846,581,4,IX35@~|~@15@~|~@flavoring@~|~@794.6
+847,116,4,5008@~|~@9@~|~@suspension@~|~@591.68
+848,957,4,Gol@~|~@9@~|~@suspension@~|~@873.99
+849,899,4,Ranger@~|~@3@~|~@tires@~|~@580.97
+850,7,4,Hilux@~|~@1@~|~@lighthouse@~|~@542.44
+851,690,4,City@~|~@1@~|~@lighthouse@~|~@572.89
+852,273,4,New Civic@~|~@4@~|~@shock absorbers@~|~@297.75
+853,239,4,Creta@~|~@7@~|~@flashlight@~|~@611.99
+854,516,4,HB20@~|~@4@~|~@shock absorbers@~|~@290.52
+855,700,4,Compass@~|~@3@~|~@tires@~|~@494.5
+856,643,4,Golf@~|~@4@~|~@shock absorbers@~|~@717.33
+857,328,4,March@~|~@2@~|~@hood@~|~@849.86
+858,174,4,Sandero@~|~@6@~|~@antenna@~|~@294.04
+859,593,4,KA@~|~@1@~|~@lighthouse@~|~@834.66
+860,210,4,IX35@~|~@11@~|~@painting wheels@~|~@562.92
+861,935,4,New Civic@~|~@9@~|~@suspension@~|~@805.02
+862,865,4,Versa@~|~@4@~|~@shock absorbers@~|~@877.26
+863,439,4,Ranger@~|~@19@~|~@oil change@~|~@379.37
+864,713,4,Ceratto@~|~@19@~|~@oil change@~|~@891.44
+865,836,4,Fiesta@~|~@10@~|~@enveloping@~|~@408.03
+866,977,4,March@~|~@14@~|~@hoops@~|~@895.81
+867,416,4,Gol@~|~@17@~|~@lubricant@~|~@665.38
+868,173,4,Kwid@~|~@9@~|~@suspension@~|~@683.23
+869,158,4,Yaris@~|~@5@~|~@multimedia kit@~|~@844.28
+870,826,4,Fiesta@~|~@3@~|~@tires@~|~@700.69
+871,38,4,Gol@~|~@14@~|~@hoops@~|~@764.93
+872,83,4,Jetta@~|~@15@~|~@flavoring@~|~@851.11
+873,920,4,Equinox@~|~@16@~|~@oil@~|~@690.5
+874,268,4,HB20@~|~@6@~|~@antenna@~|~@524.05
+875,199,4,Duster@~|~@9@~|~@suspension@~|~@394.97
+876,116,4,308@~|~@1@~|~@lighthouse@~|~@643.09
+877,330,4,Versa@~|~@16@~|~@oil@~|~@772.2
+878,976,4,Fiesta@~|~@7@~|~@flashlight@~|~@809.84
+879,798,4,Gol@~|~@8@~|~@lamp@~|~@235.68
+880,653,4,Virtus@~|~@17@~|~@lubricant@~|~@450.78
+881,221,4,New Civic@~|~@10@~|~@enveloping@~|~@680.65
+882,157,4,KA@~|~@17@~|~@lubricant@~|~@264.44
+883,235,4,New Civic@~|~@6@~|~@antenna@~|~@475.82
+884,438,4,IX35@~|~@11@~|~@painting wheels@~|~@200.61
+885,438,4,Logan@~|~@7@~|~@flashlight@~|~@465.97
+886,102,4,Creta@~|~@14@~|~@hoops@~|~@568.96
+887,585,4,Kwid@~|~@3@~|~@tires@~|~@752.27
+888,644,4,Renegade@~|~@6@~|~@antenna@~|~@735.95
+889,153,4,Gol@~|~@9@~|~@suspension@~|~@306.71
+890,417,4,T-Cross@~|~@4@~|~@shock absorbers@~|~@806.9
+891,388,4,308@~|~@1@~|~@lighthouse@~|~@352.2
+892,656,4,HB20@~|~@4@~|~@shock absorbers@~|~@733.16
+893,699,4,Golf@~|~@6@~|~@antenna@~|~@481.46
+894,756,4,Soul@~|~@15@~|~@flavoring@~|~@295.61
+895,376,4,Fluence@~|~@9@~|~@suspension@~|~@232.35
+896,331,4,City@~|~@16@~|~@oil@~|~@595.31
+897,563,4,S-10@~|~@2@~|~@hood@~|~@880.22
+898,711,4,Yaris@~|~@19@~|~@oil change@~|~@615.36
+899,17,4,Logan@~|~@7@~|~@flashlight@~|~@845.37
+900,838,4,Sandero@~|~@8@~|~@lamp@~|~@206.76
+901,655,4,HB20@~|~@11@~|~@painting wheels@~|~@568.3
+902,883,4,Fox@~|~@11@~|~@painting wheels@~|~@815.45
+903,86,4,Rio@~|~@8@~|~@lamp@~|~@510.17
+904,883,4,Passat@~|~@16@~|~@oil@~|~@381.41
+905,744,4,W-RV@~|~@13@~|~@airfoils@~|~@416.42
+906,911,4,Q3@~|~@14@~|~@hoops@~|~@224.94
+907,601,4,Fox@~|~@17@~|~@lubricant@~|~@516.1
+908,920,4,Frontier@~|~@2@~|~@hood@~|~@306.92
+909,221,4,2008@~|~@18@~|~@filter@~|~@886.87
+910,670,4,City@~|~@7@~|~@flashlight@~|~@535.98
+911,653,4,Sandero@~|~@7@~|~@flashlight@~|~@241.41
+912,243,4,2008@~|~@17@~|~@lubricant@~|~@610.73
+913,208,4,Sportage@~|~@17@~|~@lubricant@~|~@577.97
+914,2,4,Onix@~|~@8@~|~@lamp@~|~@404.37
+915,759,4,Versa@~|~@17@~|~@lubricant@~|~@678.59
+916,676,4,Corolla@~|~@10@~|~@enveloping@~|~@895.21
+917,501,4,Etios@~|~@13@~|~@airfoils@~|~@260.89
+918,147,4,Edge@~|~@9@~|~@suspension@~|~@786.55
+919,310,4,Creta@~|~@3@~|~@tires@~|~@765.58
+920,437,4,Logan@~|~@14@~|~@hoops@~|~@332.19
+921,327,4,2008@~|~@13@~|~@airfoils@~|~@873.36
+922,7,4,Gol@~|~@16@~|~@oil@~|~@392.81
+923,187,4,March@~|~@11@~|~@painting wheels@~|~@603.22
+924,199,4,Tracker@~|~@16@~|~@oil@~|~@545.87
+925,650,4,Fiesta@~|~@15@~|~@flavoring@~|~@420.58
+926,274,4,Golf@~|~@13@~|~@airfoils@~|~@684.64
+927,999,4,Ranger@~|~@6@~|~@antenna@~|~@475.55
+928,331,4,RAV4@~|~@8@~|~@lamp@~|~@208.96
+929,261,4,I30@~|~@15@~|~@flavoring@~|~@844.97
+930,80,4,Fox@~|~@15@~|~@flavoring@~|~@898.98
+931,911,4,A4@~|~@13@~|~@airfoils@~|~@311.19
+932,31,4,Sportage@~|~@8@~|~@lamp@~|~@879.77
+933,692,4,Sonata@~|~@12@~|~@brake pad@~|~@807.42
+934,409,4,Yaris@~|~@12@~|~@brake pad@~|~@877.88
+935,638,4,2008@~|~@4@~|~@shock absorbers@~|~@670.05
+936,340,4,Onix@~|~@6@~|~@antenna@~|~@708.3
+937,304,4,Logan@~|~@17@~|~@lubricant@~|~@694.72
+938,715,4,H-RV@~|~@4@~|~@shock absorbers@~|~@800.84
+939,928,4,Versa@~|~@16@~|~@oil@~|~@586.19
+940,317,4,Yaris@~|~@6@~|~@antenna@~|~@857.47
+941,469,4,Sportage@~|~@15@~|~@flavoring@~|~@415.72
+942,265,4,Polo@~|~@19@~|~@oil change@~|~@485.05
+943,625,4,Logan@~|~@14@~|~@hoops@~|~@574.94
+944,339,4,Sandero@~|~@12@~|~@brake pad@~|~@802.65
+945,17,4,Jetta@~|~@2@~|~@hood@~|~@210.98
+946,143,4,A1@~|~@5@~|~@multimedia kit@~|~@430.11
+947,507,4,Soul@~|~@17@~|~@lubricant@~|~@254.23
+948,607,4,Gol@~|~@7@~|~@flashlight@~|~@817.99
+949,151,4,City@~|~@10@~|~@enveloping@~|~@688.88
+950,308,4,HB20@~|~@7@~|~@flashlight@~|~@852.51
+951,32,4,Kwid@~|~@3@~|~@tires@~|~@436.04
+952,203,4,Gol@~|~@10@~|~@enveloping@~|~@882.48
+953,49,4,IX35@~|~@9@~|~@suspension@~|~@779.94
+954,872,4,Kwid@~|~@10@~|~@enveloping@~|~@606.9
+955,798,4,Virtus@~|~@3@~|~@tires@~|~@440.01
+956,310,4,T-Cross@~|~@5@~|~@multimedia kit@~|~@364.7
+957,123,4,Kicks@~|~@3@~|~@tires@~|~@634.29
+958,484,4,KA@~|~@17@~|~@lubricant@~|~@271.18
+959,158,4,Frontier@~|~@7@~|~@flashlight@~|~@350.49
+960,58,4,Fit@~|~@19@~|~@oil change@~|~@861.11
+961,745,4,Passat@~|~@4@~|~@shock absorbers@~|~@200.25
+962,584,4,308@~|~@9@~|~@suspension@~|~@689.01
+963,915,4,Gol@~|~@16@~|~@oil@~|~@320.8
+964,188,4,HB20@~|~@16@~|~@oil@~|~@765.04
+965,290,4,3008@~|~@8@~|~@lamp@~|~@230.85
+966,129,4,W-RV@~|~@18@~|~@filter@~|~@362.38
+967,986,4,Sandero@~|~@1@~|~@lighthouse@~|~@524.64
+968,880,4,Golf@~|~@8@~|~@lamp@~|~@464.46
+969,521,4,Logan@~|~@10@~|~@enveloping@~|~@592.94
+970,981,4,Logan@~|~@19@~|~@oil change@~|~@778.4
+971,47,4,Tracker@~|~@18@~|~@filter@~|~@289.76
+972,978,4,HB20@~|~@17@~|~@lubricant@~|~@362.24
+973,422,4,2008@~|~@11@~|~@painting wheels@~|~@700.58
+974,451,4,A1@~|~@9@~|~@suspension@~|~@489.44
+975,476,4,A3@~|~@1@~|~@lighthouse@~|~@701.7
+976,310,4,Onix@~|~@19@~|~@oil change@~|~@399.15
+977,11,4,TrailBlazer@~|~@12@~|~@brake pad@~|~@837.67
+978,879,4,Jetta@~|~@1@~|~@lighthouse@~|~@640.89
+979,511,4,TrailBlazer@~|~@18@~|~@filter@~|~@890.33
+980,119,4,KA@~|~@5@~|~@multimedia kit@~|~@829.3
+981,314,4,March@~|~@15@~|~@flavoring@~|~@873.68
+982,193,4,Virtus@~|~@2@~|~@hood@~|~@572.4
+983,462,4,Creta@~|~@1@~|~@lighthouse@~|~@583.35
+984,269,4,Fluence@~|~@15@~|~@flavoring@~|~@290.8
+985,97,4,Fluence@~|~@19@~|~@oil change@~|~@887.8
+986,290,4,KA@~|~@16@~|~@oil@~|~@678.32
+987,87,4,HB20@~|~@1@~|~@lighthouse@~|~@353.85
+988,913,4,Kwid@~|~@9@~|~@suspension@~|~@629.91
+989,583,4,Soul@~|~@11@~|~@painting wheels@~|~@633.65
+990,599,4,New Civic@~|~@15@~|~@flavoring@~|~@239.92
+991,787,4,A4@~|~@10@~|~@enveloping@~|~@360.58
+992,888,4,Spin@~|~@17@~|~@lubricant@~|~@445.64
+993,42,4,Golf@~|~@3@~|~@tires@~|~@642.87
+994,445,4,Renegade@~|~@17@~|~@lubricant@~|~@478.26
+995,362,4,A4@~|~@12@~|~@brake pad@~|~@857.8
+996,836,4,Fox@~|~@1@~|~@lighthouse@~|~@634.13
+997,129,4,H-RV@~|~@1@~|~@lighthouse@~|~@261.49
+998,578,4,KA@~|~@12@~|~@brake pad@~|~@556.57
+999,109,4,Versa@~|~@7@~|~@flashlight@~|~@312.77
+1000,598,4,Ceratto@~|~@10@~|~@enveloping@~|~@511.15
